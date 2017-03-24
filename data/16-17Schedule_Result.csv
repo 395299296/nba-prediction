@@ -1,0 +1,1231 @@
+Date,Vteam,VPTS,Hteam,HPTS
+2016-10-25 07:30:00,New York Knicks,88.0,Cleveland Cavaliers,117.0
+2016-10-25 10:00:00,Utah Jazz,104.0,Portland Trail Blazers,113.0
+2016-10-25 10:30:00,San Antonio Spurs,129.0,Golden State Warriors,100.0
+2016-10-26 07:00:00,Dallas Mavericks,121.0,Indiana Pacers,130.0
+2016-10-26 07:00:00,Miami Heat,108.0,Orlando Magic,96.0
+2016-10-26 07:30:00,Brooklyn Nets,117.0,Boston Celtics,122.0
+2016-10-26 07:30:00,Detroit Pistons,91.0,Toronto Raptors,109.0
+2016-10-26 08:00:00,Oklahoma City Thunder,103.0,Philadelphia 76ers,97.0
+2016-10-26 08:00:00,Denver Nuggets,107.0,New Orleans Pelicans,102.0
+2016-10-26 08:00:00,Charlotte Hornets,107.0,Milwaukee Bucks,96.0
+2016-10-26 08:00:00,Minnesota Timberwolves,98.0,Memphis Grizzlies,102.0
+2016-10-26 10:00:00,Sacramento Kings,113.0,Phoenix Suns,94.0
+2016-10-26 10:30:00,Houston Rockets,114.0,Los Angeles Lakers,120.0
+2016-10-27 07:30:00,Washington Wizards,99.0,Atlanta Hawks,114.0
+2016-10-27 08:00:00,Boston Celtics,99.0,Chicago Bulls,105.0
+2016-10-27 10:30:00,Los Angeles Clippers,114.0,Portland Trail Blazers,106.0
+2016-10-27 10:30:00,San Antonio Spurs,102.0,Sacramento Kings,94.0
+2016-10-28 07:00:00,Cleveland Cavaliers,94.0,Toronto Raptors,91.0
+2016-10-28 07:30:00,Orlando Magic,82.0,Detroit Pistons,108.0
+2016-10-28 07:30:00,Indiana Pacers,94.0,Brooklyn Nets,103.0
+2016-10-28 08:00:00,Charlotte Hornets,97.0,Miami Heat,91.0
+2016-10-28 08:00:00,Phoenix Suns,110.0,Oklahoma City Thunder,113.0
+2016-10-28 08:30:00,Houston Rockets,106.0,Dallas Mavericks,98.0
+2016-10-28 09:00:00,Los Angeles Lakers,89.0,Utah Jazz,96.0
+2016-10-28 09:30:00,Golden State Warriors,122.0,New Orleans Pelicans,114.0
+2016-10-29 00:30:00,Atlanta Hawks,104.0,Philadelphia 76ers,72.0
+2016-10-29 07:00:00,Boston Celtics,104.0,Charlotte Hornets,98.0
+2016-10-29 07:30:00,Orlando Magic,99.0,Cleveland Cavaliers,105.0
+2016-10-29 07:30:00,Memphis Grizzlies,104.0,New York Knicks,111.0
+2016-10-29 08:00:00,Indiana Pacers,101.0,Chicago Bulls,118.0
+2016-10-29 08:00:00,Brooklyn Nets,108.0,Milwaukee Bucks,110.0
+2016-10-29 08:00:00,New Orleans Pelicans,79.0,San Antonio Spurs,98.0
+2016-10-29 09:00:00,Portland Trail Blazers,115.0,Denver Nuggets,113.0
+2016-10-29 10:30:00,Minnesota Timberwolves,103.0,Sacramento Kings,106.0
+2016-10-30 04:30:00,Utah Jazz,75.0,Los Angeles Clippers,88.0
+2016-10-30 06:00:00,San Antonio Spurs,106.0,Miami Heat,99.0
+2016-10-30 06:00:00,Milwaukee Bucks,83.0,Detroit Pistons,98.0
+2016-10-30 06:00:00,Golden State Warriors,106.0,Phoenix Suns,100.0
+2016-10-30 07:00:00,Los Angeles Lakers,96.0,Oklahoma City Thunder,113.0
+2016-10-30 08:00:00,Washington Wizards,103.0,Memphis Grizzlies,112.0
+2016-10-30 08:00:00,Dallas Mavericks,92.0,Houston Rockets,93.0
+2016-10-31 07:30:00,Sacramento Kings,95.0,Atlanta Hawks,106.0
+2016-10-31 07:30:00,Chicago Bulls,118.0,Brooklyn Nets,88.0
+2016-10-31 07:30:00,Denver Nuggets,102.0,Toronto Raptors,105.0
+2016-10-31 10:30:00,Phoenix Suns,98.0,Los Angeles Clippers,116.0
+2016-11-01 06:00:00,Houston Rockets,120.0,Cleveland Cavaliers,128.0
+2016-11-01 07:00:00,Los Angeles Lakers,108.0,Indiana Pacers,115.0
+2016-11-01 07:00:00,Orlando Magic,103.0,Philadelphia 76ers,101.0
+2016-11-01 07:30:00,New York Knicks,89.0,Detroit Pistons,102.0
+2016-11-01 07:30:00,Sacramento Kings,96.0,Miami Heat,108.0
+2016-11-01 08:00:00,Memphis Grizzlies,80.0,Minnesota Timberwolves,116.0
+2016-11-01 08:00:00,Milwaukee Bucks,117.0,New Orleans Pelicans,113.0
+2016-11-01 08:30:00,Utah Jazz,106.0,San Antonio Spurs,91.0
+2016-11-01 10:00:00,Golden State Warriors,127.0,Portland Trail Blazers,104.0
+2016-11-02 07:00:00,Toronto Raptors,113.0,Washington Wizards,103.0
+2016-11-02 07:00:00,Philadelphia 76ers,93.0,Charlotte Hornets,109.0
+2016-11-02 07:30:00,Detroit Pistons,101.0,Brooklyn Nets,109.0
+2016-11-02 07:30:00,Houston Rockets,118.0,New York Knicks,99.0
+2016-11-02 07:30:00,Los Angeles Lakers,123.0,Atlanta Hawks,116.0
+2016-11-02 08:00:00,New Orleans Pelicans,83.0,Memphis Grizzlies,89.0
+2016-11-02 08:00:00,Chicago Bulls,100.0,Boston Celtics,107.0
+2016-11-02 09:00:00,Dallas Mavericks,81.0,Utah Jazz,97.0
+2016-11-02 10:00:00,Portland Trail Blazers,115.0,Phoenix Suns,118.0
+2016-11-02 10:30:00,Oklahoma City Thunder,85.0,Los Angeles Clippers,83.0
+2016-11-03 07:00:00,Sacramento Kings,94.0,Orlando Magic,102.0
+2016-11-03 08:00:00,Boston Celtics,122.0,Cleveland Cavaliers,128.0
+2016-11-03 08:00:00,Indiana Pacers,107.0,Milwaukee Bucks,125.0
+2016-11-03 08:00:00,Denver Nuggets,102.0,Minnesota Timberwolves,99.0
+2016-11-03 10:30:00,Oklahoma City Thunder,96.0,Golden State Warriors,122.0
+2016-11-04 07:00:00,Atlanta Hawks,92.0,Washington Wizards,95.0
+2016-11-04 07:30:00,Charlotte Hornets,99.0,Brooklyn Nets,95.0
+2016-11-04 07:30:00,Miami Heat,87.0,Toronto Raptors,96.0
+2016-11-04 08:00:00,New York Knicks,117.0,Chicago Bulls,104.0
+2016-11-04 08:00:00,Los Angeles Clippers,99.0,Memphis Grizzlies,88.0
+2016-11-04 08:00:00,Phoenix Suns,112.0,New Orleans Pelicans,111.0
+2016-11-04 08:30:00,Portland Trail Blazers,105.0,Dallas Mavericks,95.0
+2016-11-04 09:00:00,San Antonio Spurs,100.0,Utah Jazz,86.0
+2016-11-04 10:30:00,Golden State Warriors,97.0,Los Angeles Lakers,117.0
+2016-11-05 06:00:00,Minnesota Timberwolves,92.0,Oklahoma City Thunder,112.0
+2016-11-05 07:00:00,Denver Nuggets,86.0,Detroit Pistons,103.0
+2016-11-05 07:00:00,Chicago Bulls,94.0,Indiana Pacers,111.0
+2016-11-05 07:00:00,Washington Wizards,86.0,Orlando Magic,88.0
+2016-11-05 07:00:00,Cleveland Cavaliers,102.0,Philadelphia 76ers,101.0
+2016-11-05 07:30:00,Houston Rockets,97.0,Atlanta Hawks,112.0
+2016-11-05 08:00:00,Sacramento Kings,91.0,Milwaukee Bucks,117.0
+2016-11-05 08:30:00,Los Angeles Clippers,116.0,San Antonio Spurs,92.0
+2016-11-06 00:00:00,Utah Jazz,114.0,New York Knicks,109.0
+2016-11-06 03:30:00,Portland Trail Blazers,100.0,Memphis Grizzlies,94.0
+2016-11-06 06:00:00,Sacramento Kings,96.0,Toronto Raptors,91.0
+2016-11-06 07:00:00,Milwaukee Bucks,75.0,Dallas Mavericks,86.0
+2016-11-06 07:30:00,Denver Nuggets,123.0,Boston Celtics,107.0
+2016-11-06 09:30:00,Phoenix Suns,108.0,Los Angeles Lakers,119.0
+2016-11-07 07:00:00,Utah Jazz,109.0,Philadelphia 76ers,84.0
+2016-11-07 07:00:00,Houston Rockets,114.0,Washington Wizards,106.0
+2016-11-07 07:00:00,Indiana Pacers,100.0,Charlotte Hornets,122.0
+2016-11-07 08:00:00,Miami Heat,85.0,Oklahoma City Thunder,97.0
+2016-11-07 08:00:00,Orlando Magic,80.0,Chicago Bulls,112.0
+2016-11-07 10:30:00,New Orleans Pelicans,106.0,Golden State Warriors,116.0
+2016-11-07 10:30:00,Detroit Pistons,82.0,Los Angeles Clippers,114.0
+2016-11-08 07:00:00,Atlanta Hawks,110.0,Cleveland Cavaliers,106.0
+2016-11-08 07:30:00,Minnesota Timberwolves,110.0,Brooklyn Nets,119.0
+2016-11-08 08:00:00,Denver Nuggets,107.0,Memphis Grizzlies,108.0
+2016-11-08 10:00:00,Phoenix Suns,121.0,Portland Trail Blazers,124.0
+2016-11-08 10:30:00,Dallas Mavericks,109.0,Los Angeles Lakers,97.0
+2016-11-08 10:30:00,New Orleans Pelicans,94.0,Sacramento Kings,102.0
+2016-11-09 07:00:00,Brooklyn Nets,96.0,New York Knicks,110.0
+2016-11-09 07:00:00,Minnesota Timberwolves,123.0,Orlando Magic,107.0
+2016-11-09 07:00:00,Philadelphia 76ers,115.0,Indiana Pacers,122.0
+2016-11-09 07:00:00,Boston Celtics,93.0,Washington Wizards,118.0
+2016-11-09 07:00:00,Utah Jazz,98.0,Charlotte Hornets,104.0
+2016-11-09 07:30:00,Chicago Bulls,107.0,Atlanta Hawks,115.0
+2016-11-09 08:00:00,Toronto Raptors,112.0,Oklahoma City Thunder,102.0
+2016-11-09 09:00:00,Detroit Pistons,100.0,Phoenix Suns,107.0
+2016-11-09 09:30:00,Houston Rockets,101.0,San Antonio Spurs,99.0
+2016-11-09 10:30:00,Portland Trail Blazers,80.0,Los Angeles Clippers,111.0
+2016-11-09 10:30:00,Dallas Mavericks,95.0,Golden State Warriors,116.0
+2016-11-10 08:00:00,Chicago Bulls,98.0,Miami Heat,95.0
+2016-11-10 08:00:00,New Orleans Pelicans,112.0,Milwaukee Bucks,106.0
+2016-11-10 09:00:00,Golden State Warriors,125.0,Denver Nuggets,101.0
+2016-11-10 10:30:00,Los Angeles Lakers,101.0,Sacramento Kings,91.0
+2016-11-11 07:00:00,Cleveland Cavaliers,105.0,Washington Wizards,94.0
+2016-11-11 07:00:00,Toronto Raptors,113.0,Charlotte Hornets,111.0
+2016-11-11 07:00:00,Indiana Pacers,105.0,Philadelphia 76ers,109.0
+2016-11-11 07:00:00,Utah Jazz,87.0,Orlando Magic,74.0
+2016-11-11 07:30:00,New York Knicks,87.0,Boston Celtics,115.0
+2016-11-11 08:00:00,Los Angeles Clippers,110.0,Oklahoma City Thunder,108.0
+2016-11-11 08:30:00,Detroit Pistons,86.0,San Antonio Spurs,96.0
+2016-11-11 10:00:00,Sacramento Kings,120.0,Portland Trail Blazers,122.0
+2016-11-12 07:00:00,Los Angeles Lakers,126.0,New Orleans Pelicans,99.0
+2016-11-12 07:00:00,Boston Celtics,105.0,Indiana Pacers,99.0
+2016-11-12 07:30:00,New York Knicks,107.0,Toronto Raptors,118.0
+2016-11-12 07:30:00,Philadelphia 76ers,96.0,Atlanta Hawks,117.0
+2016-11-12 08:00:00,Los Angeles Clippers,119.0,Minnesota Timberwolves,105.0
+2016-11-12 08:00:00,San Antonio Spurs,106.0,Houston Rockets,100.0
+2016-11-12 08:00:00,Washington Wizards,95.0,Chicago Bulls,106.0
+2016-11-12 08:00:00,Utah Jazz,102.0,Miami Heat,91.0
+2016-11-12 08:30:00,Memphis Grizzlies,96.0,Milwaukee Bucks,106.0
+2016-11-12 09:00:00,Detroit Pistons,106.0,Denver Nuggets,95.0
+2016-11-12 09:00:00,Brooklyn Nets,122.0,Phoenix Suns,104.0
+2016-11-13 03:30:00,Charlotte Hornets,93.0,Cleveland Cavaliers,100.0
+2016-11-13 07:00:00,Los Angeles Lakers,99.0,Minnesota Timberwolves,125.0
+2016-11-13 07:00:00,Orlando Magic,119.0,Oklahoma City Thunder,117.0
+2016-11-13 08:00:00,Phoenix Suns,120.0,Golden State Warriors,133.0
+2016-11-13 09:00:00,Denver Nuggets,105.0,Portland Trail Blazers,112.0
+2016-11-14 07:00:00,Orlando Magic,69.0,Indiana Pacers,88.0
+2016-11-14 07:30:00,Oklahoma City Thunder,88.0,Detroit Pistons,104.0
+2016-11-14 07:30:00,Dallas Mavericks,77.0,New York Knicks,93.0
+2016-11-14 08:00:00,Philadelphia 76ers,88.0,Houston Rockets,115.0
+2016-11-14 08:00:00,Boston Celtics,105.0,New Orleans Pelicans,106.0
+2016-11-14 08:30:00,Miami Heat,90.0,San Antonio Spurs,94.0
+2016-11-14 09:00:00,Memphis Grizzlies,102.0,Utah Jazz,96.0
+2016-11-14 10:30:00,Brooklyn Nets,95.0,Los Angeles Clippers,127.0
+2016-11-15 07:00:00,Toronto Raptors,117.0,Cleveland Cavaliers,121.0
+2016-11-15 07:30:00,Atlanta Hawks,93.0,Miami Heat,90.0
+2016-11-15 08:00:00,Charlotte Hornets,115.0,Minnesota Timberwolves,108.0
+2016-11-15 10:00:00,Chicago Bulls,113.0,Portland Trail Blazers,88.0
+2016-11-15 10:30:00,Brooklyn Nets,118.0,Los Angeles Lakers,125.0
+2016-11-16 07:00:00,Cleveland Cavaliers,93.0,Indiana Pacers,103.0
+2016-11-16 07:00:00,New Orleans Pelicans,82.0,Orlando Magic,89.0
+2016-11-16 07:00:00,Washington Wizards,102.0,Philadelphia 76ers,109.0
+2016-11-16 07:30:00,Milwaukee Bucks,100.0,Atlanta Hawks,107.0
+2016-11-16 07:30:00,Dallas Mavericks,83.0,Boston Celtics,90.0
+2016-11-16 07:30:00,Detroit Pistons,102.0,New York Knicks,105.0
+2016-11-16 08:00:00,Golden State Warriors,127.0,Toronto Raptors,121.0
+2016-11-16 08:00:00,Houston Rockets,103.0,Oklahoma City Thunder,105.0
+2016-11-16 09:00:00,Phoenix Suns,104.0,Denver Nuggets,120.0
+2016-11-16 10:30:00,San Antonio Spurs,110.0,Sacramento Kings,105.0
+2016-11-16 10:30:00,Memphis Grizzlies,111.0,Los Angeles Clippers,107.0
+2016-11-17 07:00:00,New York Knicks,112.0,Washington Wizards,119.0
+2016-11-17 07:30:00,Milwaukee Bucks,73.0,Miami Heat,96.0
+2016-11-17 08:00:00,Portland Trail Blazers,109.0,Houston Rockets,126.0
+2016-11-17 08:00:00,Philadelphia 76ers,86.0,Minnesota Timberwolves,110.0
+2016-11-17 10:30:00,Chicago Bulls,85.0,Utah Jazz,77.0
+2016-11-18 07:00:00,Atlanta Hawks,96.0,Charlotte Hornets,100.0
+2016-11-18 07:00:00,Phoenix Suns,116.0,Indiana Pacers,96.0
+2016-11-18 07:30:00,Detroit Pistons,81.0,Cleveland Cavaliers,104.0
+2016-11-18 08:00:00,Brooklyn Nets,105.0,Oklahoma City Thunder,124.0
+2016-11-18 08:00:00,Portland Trail Blazers,101.0,New Orleans Pelicans,113.0
+2016-11-18 08:00:00,Golden State Warriors,104.0,Boston Celtics,88.0
+2016-11-18 08:30:00,Memphis Grizzlies,80.0,Dallas Mavericks,64.0
+2016-11-18 09:00:00,Toronto Raptors,113.0,Denver Nuggets,111.0
+2016-11-18 10:30:00,San Antonio Spurs,116.0,Los Angeles Lakers,107.0
+2016-11-18 10:30:00,Los Angeles Clippers,121.0,Sacramento Kings,115.0
+2016-11-19 05:00:00,Utah Jazz,102.0,Houston Rockets,111.0
+2016-11-19 07:00:00,Miami Heat,114.0,Washington Wizards,111.0
+2016-11-19 07:00:00,Boston Celtics,94.0,Detroit Pistons,92.0
+2016-11-19 07:00:00,Charlotte Hornets,116.0,New Orleans Pelicans,121.0
+2016-11-19 07:00:00,Dallas Mavericks,87.0,Orlando Magic,95.0
+2016-11-19 07:30:00,Phoenix Suns,105.0,Philadelphia 76ers,120.0
+2016-11-19 08:00:00,Minnesota Timberwolves,71.0,Memphis Grizzlies,93.0
+2016-11-19 08:30:00,Golden State Warriors,124.0,Milwaukee Bucks,121.0
+2016-11-19 10:30:00,Chicago Bulls,95.0,Los Angeles Clippers,102.0
+2016-11-20 00:00:00,Atlanta Hawks,94.0,New York Knicks,104.0
+2016-11-20 03:30:00,Portland Trail Blazers,129.0,Brooklyn Nets,109.0
+2016-11-20 07:00:00,Indiana Pacers,115.0,Oklahoma City Thunder,111.0
+2016-11-20 09:00:00,Toronto Raptors,99.0,Sacramento Kings,102.0
+2016-11-20 09:00:00,Utah Jazz,91.0,Denver Nuggets,105.0
+2016-11-20 09:30:00,Chicago Bulls,118.0,Los Angeles Lakers,110.0
+2016-11-21 07:00:00,Phoenix Suns,101.0,Washington Wizards,106.0
+2016-11-21 07:00:00,Memphis Grizzlies,105.0,Charlotte Hornets,90.0
+2016-11-21 07:00:00,Golden State Warriors,120.0,Indiana Pacers,83.0
+2016-11-21 07:00:00,Miami Heat,94.0,Philadelphia 76ers,101.0
+2016-11-21 07:30:00,Houston Rockets,99.0,Detroit Pistons,96.0
+2016-11-21 08:00:00,Boston Celtics,99.0,Minnesota Timberwolves,93.0
+2016-11-21 08:00:00,Orlando Magic,89.0,Milwaukee Bucks,93.0
+2016-11-21 08:30:00,Dallas Mavericks,91.0,San Antonio Spurs,96.0
+2016-11-21 10:30:00,Toronto Raptors,115.0,Los Angeles Clippers,123.0
+2016-11-22 07:30:00,New Orleans Pelicans,112.0,Atlanta Hawks,94.0
+2016-11-22 07:30:00,Portland Trail Blazers,103.0,New York Knicks,107.0
+2016-11-22 09:00:00,Chicago Bulls,107.0,Denver Nuggets,110.0
+2016-11-22 10:30:00,Oklahoma City Thunder,109.0,Los Angeles Lakers,111.0
+2016-11-23 07:00:00,Memphis Grizzlies,104.0,Philadelphia 76ers,99.0
+2016-11-23 07:00:00,Phoenix Suns,92.0,Orlando Magic,87.0
+2016-11-23 07:00:00,Atlanta Hawks,96.0,Indiana Pacers,85.0
+2016-11-23 07:00:00,San Antonio Spurs,119.0,Charlotte Hornets,114.0
+2016-11-23 07:00:00,Portland Trail Blazers,125.0,Cleveland Cavaliers,137.0
+2016-11-23 07:30:00,Miami Heat,84.0,Detroit Pistons,107.0
+2016-11-23 07:30:00,Boston Celtics,111.0,Brooklyn Nets,92.0
+2016-11-23 08:00:00,Toronto Raptors,115.0,Houston Rockets,102.0
+2016-11-23 08:30:00,Los Angeles Clippers,124.0,Dallas Mavericks,104.0
+2016-11-23 09:00:00,Denver Nuggets,83.0,Utah Jazz,108.0
+2016-11-23 09:30:00,Minnesota Timberwolves,96.0,New Orleans Pelicans,117.0
+2016-11-23 10:30:00,Los Angeles Lakers,106.0,Golden State Warriors,149.0
+2016-11-23 10:30:00,Oklahoma City Thunder,101.0,Sacramento Kings,116.0
+2016-11-25 01:00:00,San Antonio Spurs,109.0,Boston Celtics,103.0
+2016-11-25 07:00:00,Washington Wizards,94.0,Orlando Magic,91.0
+2016-11-25 07:30:00,Dallas Mavericks,90.0,Cleveland Cavaliers,128.0
+2016-11-25 07:30:00,Los Angeles Clippers,97.0,Detroit Pistons,108.0
+2016-11-25 07:30:00,Chicago Bulls,105.0,Philadelphia 76ers,89.0
+2016-11-25 07:30:00,Charlotte Hornets,111.0,New York Knicks,113.0
+2016-11-25 08:00:00,Atlanta Hawks,68.0,Utah Jazz,95.0
+2016-11-25 08:00:00,Miami Heat,90.0,Memphis Grizzlies,81.0
+2016-11-25 08:00:00,Toronto Raptors,105.0,Milwaukee Bucks,99.0
+2016-11-25 08:00:00,Brooklyn Nets,97.0,Indiana Pacers,118.0
+2016-11-25 09:00:00,Minnesota Timberwolves,98.0,Phoenix Suns,85.0
+2016-11-25 09:00:00,Oklahoma City Thunder,132.0,Denver Nuggets,129.0
+2016-11-25 10:00:00,New Orleans Pelicans,104.0,Portland Trail Blazers,119.0
+2016-11-25 10:30:00,Golden State Warriors,109.0,Los Angeles Lakers,85.0
+2016-11-25 10:30:00,Houston Rockets,117.0,Sacramento Kings,104.0
+2016-11-26 07:00:00,New York Knicks,102.0,Charlotte Hornets,107.0
+2016-11-26 07:00:00,San Antonio Spurs,112.0,Washington Wizards,100.0
+2016-11-26 08:00:00,Memphis Grizzlies,110.0,Miami Heat,107.0
+2016-11-26 08:00:00,Detroit Pistons,88.0,Oklahoma City Thunder,106.0
+2016-11-26 10:30:00,Minnesota Timberwolves,102.0,Golden State Warriors,115.0
+2016-11-27 01:00:00,Cleveland Cavaliers,112.0,Philadelphia 76ers,108.0
+2016-11-27 03:30:00,Denver Nuggets,120.0,Phoenix Suns,114.0
+2016-11-27 06:00:00,Los Angeles Clippers,70.0,Indiana Pacers,91.0
+2016-11-27 06:00:00,Milwaukee Bucks,104.0,Orlando Magic,96.0
+2016-11-27 06:00:00,Sacramento Kings,122.0,Brooklyn Nets,105.0
+2016-11-27 07:00:00,New Orleans Pelicans,81.0,Dallas Mavericks,91.0
+2016-11-27 09:00:00,Houston Rockets,130.0,Portland Trail Blazers,114.0
+2016-11-27 09:30:00,Atlanta Hawks,94.0,Los Angeles Lakers,109.0
+2016-11-28 07:00:00,Sacramento Kings,95.0,Washington Wizards,101.0
+2016-11-28 07:30:00,Oklahoma City Thunder,112.0,New York Knicks,103.0
+2016-11-28 07:30:00,Philadelphia 76ers,95.0,Toronto Raptors,122.0
+2016-11-28 07:30:00,Boston Celtics,112.0,Miami Heat,104.0
+2016-11-28 08:00:00,Utah Jazz,112.0,Minnesota Timberwolves,103.0
+2016-11-28 08:00:00,Charlotte Hornets,104.0,Memphis Grizzlies,85.0
+2016-11-28 10:30:00,Atlanta Hawks,100.0,Golden State Warriors,105.0
+2016-11-29 07:00:00,Detroit Pistons,112.0,Charlotte Hornets,89.0
+2016-11-29 07:30:00,Los Angeles Clippers,122.0,Brooklyn Nets,127.0
+2016-11-29 08:00:00,Cleveland Cavaliers,101.0,Milwaukee Bucks,118.0
+2016-11-29 08:00:00,Los Angeles Lakers,88.0,New Orleans Pelicans,105.0
+2016-11-29 08:30:00,Orlando Magic,95.0,San Antonio Spurs,83.0
+2016-11-29 09:00:00,Houston Rockets,101.0,Utah Jazz,120.0
+2016-11-30 07:30:00,Detroit Pistons,121.0,Boston Celtics,114.0
+2016-11-30 07:30:00,Memphis Grizzlies,105.0,Toronto Raptors,120.0
+2016-11-30 08:00:00,Washington Wizards,115.0,Oklahoma City Thunder,126.0
+2016-11-30 08:00:00,Los Angeles Lakers,96.0,Chicago Bulls,90.0
+2016-11-30 08:00:00,New York Knicks,106.0,Minnesota Timberwolves,104.0
+2016-11-30 08:30:00,San Antonio Spurs,94.0,Dallas Mavericks,87.0
+2016-11-30 09:00:00,Atlanta Hawks,107.0,Phoenix Suns,109.0
+2016-11-30 09:00:00,Miami Heat,106.0,Denver Nuggets,98.0
+2016-11-30 10:00:00,Indiana Pacers,109.0,Portland Trail Blazers,131.0
+2016-12-01 07:00:00,Dallas Mavericks,87.0,Charlotte Hornets,97.0
+2016-12-01 07:30:00,Milwaukee Bucks,111.0,Brooklyn Nets,93.0
+2016-12-01 08:00:00,Los Angeles Clippers,113.0,Cleveland Cavaliers,94.0
+2016-12-01 08:00:00,Orlando Magic,94.0,Memphis Grizzlies,95.0
+2016-12-01 09:00:00,Miami Heat,111.0,Utah Jazz,110.0
+2016-12-01 10:30:00,Houston Rockets,132.0,Golden State Warriors,127.0
+2016-12-02 07:00:00,Orlando Magic,105.0,Philadelphia 76ers,88.0
+2016-12-02 07:30:00,Sacramento Kings,92.0,Boston Celtics,97.0
+2016-12-02 07:30:00,Minnesota Timberwolves,114.0,New York Knicks,118.0
+2016-12-02 07:30:00,Los Angeles Lakers,80.0,Toronto Raptors,113.0
+2016-12-02 08:00:00,Cleveland Cavaliers,105.0,Chicago Bulls,111.0
+2016-12-02 08:00:00,Los Angeles Clippers,114.0,New Orleans Pelicans,96.0
+2016-12-02 08:00:00,Detroit Pistons,121.0,Atlanta Hawks,85.0
+2016-12-02 08:30:00,Washington Wizards,105.0,San Antonio Spurs,107.0
+2016-12-02 10:30:00,Houston Rockets,128.0,Denver Nuggets,110.0
+2016-12-03 05:00:00,Brooklyn Nets,103.0,Milwaukee Bucks,112.0
+2016-12-03 07:00:00,Minnesota Timberwolves,125.0,Charlotte Hornets,120.0
+2016-12-03 07:30:00,Boston Celtics,107.0,Philadelphia 76ers,106.0
+2016-12-03 07:30:00,Atlanta Hawks,84.0,Toronto Raptors,128.0
+2016-12-03 08:00:00,Los Angeles Lakers,100.0,Memphis Grizzlies,103.0
+2016-12-03 08:30:00,Chicago Bulls,82.0,Dallas Mavericks,107.0
+2016-12-03 09:00:00,Denver Nuggets,98.0,Utah Jazz,105.0
+2016-12-03 10:00:00,Miami Heat,92.0,Portland Trail Blazers,99.0
+2016-12-03 10:30:00,Phoenix Suns,109.0,Golden State Warriors,138.0
+2016-12-04 06:00:00,Orlando Magic,98.0,Detroit Pistons,92.0
+2016-12-04 07:00:00,New Orleans Pelicans,92.0,Oklahoma City Thunder,101.0
+2016-12-04 07:30:00,Sacramento Kings,98.0,New York Knicks,106.0
+2016-12-04 09:30:00,Indiana Pacers,111.0,Los Angeles Clippers,102.0
+2016-12-05 07:00:00,Denver Nuggets,106.0,Philadelphia 76ers,98.0
+2016-12-05 07:30:00,Cleveland Cavaliers,116.0,Toronto Raptors,112.0
+2016-12-05 07:30:00,Oklahoma City Thunder,102.0,Atlanta Hawks,99.0
+2016-12-05 07:30:00,Washington Wizards,118.0,Brooklyn Nets,113.0
+2016-12-05 08:00:00,Boston Celtics,106.0,Houston Rockets,107.0
+2016-12-05 08:00:00,San Antonio Spurs,97.0,Milwaukee Bucks,96.0
+2016-12-05 08:00:00,Portland Trail Blazers,112.0,Chicago Bulls,110.0
+2016-12-05 08:00:00,Memphis Grizzlies,110.0,New Orleans Pelicans,108.0
+2016-12-05 08:30:00,Charlotte Hornets,109.0,Dallas Mavericks,101.0
+2016-12-05 10:30:00,Indiana Pacers,106.0,Golden State Warriors,142.0
+2016-12-05 10:30:00,Utah Jazz,107.0,Los Angeles Lakers,101.0
+2016-12-06 07:00:00,Orlando Magic,124.0,Washington Wizards,116.0
+2016-12-06 07:30:00,Chicago Bulls,91.0,Detroit Pistons,102.0
+2016-12-06 07:30:00,New York Knicks,114.0,Miami Heat,103.0
+2016-12-06 08:00:00,Philadelphia 76ers,91.0,Memphis Grizzlies,96.0
+2016-12-06 08:00:00,San Antonio Spurs,105.0,Minnesota Timberwolves,91.0
+2016-12-06 09:00:00,Phoenix Suns,105.0,Utah Jazz,112.0
+2016-12-07 07:00:00,Detroit Pistons,77.0,Charlotte Hornets,87.0
+2016-12-07 07:00:00,Boston Celtics,117.0,Orlando Magic,87.0
+2016-12-07 07:30:00,Miami Heat,95.0,Atlanta Hawks,103.0
+2016-12-07 07:30:00,Denver Nuggets,111.0,Brooklyn Nets,116.0
+2016-12-07 08:00:00,Los Angeles Lakers,95.0,Houston Rockets,134.0
+2016-12-07 08:00:00,Portland Trail Blazers,107.0,Milwaukee Bucks,115.0
+2016-12-07 08:00:00,Cleveland Cavaliers,126.0,New York Knicks,94.0
+2016-12-07 08:30:00,Sacramento Kings,120.0,Dallas Mavericks,89.0
+2016-12-07 09:00:00,Indiana Pacers,109.0,Phoenix Suns,94.0
+2016-12-07 10:30:00,Golden State Warriors,115.0,Los Angeles Clippers,98.0
+2016-12-08 07:00:00,Minnesota Timberwolves,110.0,Toronto Raptors,124.0
+2016-12-08 07:00:00,Denver Nuggets,85.0,Washington Wizards,92.0
+2016-12-08 08:00:00,Portland Trail Blazers,86.0,Memphis Grizzlies,88.0
+2016-12-08 08:00:00,Philadelphia 76ers,99.0,New Orleans Pelicans,88.0
+2016-12-08 09:00:00,Golden State Warriors,106.0,Utah Jazz,99.0
+2016-12-08 09:30:00,San Antonio Spurs,91.0,Chicago Bulls,95.0
+2016-12-09 07:00:00,Orlando Magic,88.0,Charlotte Hornets,109.0
+2016-12-09 07:30:00,Toronto Raptors,101.0,Boston Celtics,94.0
+2016-12-09 07:30:00,Miami Heat,84.0,Cleveland Cavaliers,114.0
+2016-12-09 08:00:00,Atlanta Hawks,114.0,Milwaukee Bucks,110.0
+2016-12-09 08:00:00,Detroit Pistons,117.0,Minnesota Timberwolves,90.0
+2016-12-09 08:00:00,Houston Rockets,102.0,Oklahoma City Thunder,99.0
+2016-12-09 08:30:00,Indiana Pacers,103.0,Dallas Mavericks,111.0
+2016-12-09 10:30:00,Phoenix Suns,119.0,Los Angeles Lakers,115.0
+2016-12-09 10:30:00,New York Knicks,103.0,Sacramento Kings,100.0
+2016-12-10 07:00:00,Milwaukee Bucks,105.0,Washington Wizards,110.0
+2016-12-10 07:00:00,Denver Nuggets,121.0,Orlando Magic,113.0
+2016-12-10 07:00:00,Portland Trail Blazers,111.0,Indiana Pacers,118.0
+2016-12-10 07:30:00,Charlotte Hornets,105.0,Cleveland Cavaliers,116.0
+2016-12-10 08:00:00,Golden State Warriors,89.0,Memphis Grizzlies,110.0
+2016-12-10 08:00:00,Miami Heat,100.0,Chicago Bulls,105.0
+2016-12-10 08:00:00,Dallas Mavericks,87.0,Houston Rockets,109.0
+2016-12-10 08:30:00,Brooklyn Nets,101.0,San Antonio Spurs,130.0
+2016-12-10 09:00:00,Sacramento Kings,84.0,Utah Jazz,104.0
+2016-12-10 10:30:00,New Orleans Pelicans,105.0,Los Angeles Clippers,133.0
+2016-12-11 06:00:00,Philadelphia 76ers,97.0,Detroit Pistons,79.0
+2016-12-11 07:00:00,Golden State Warriors,116.0,Minnesota Timberwolves,108.0
+2016-12-11 07:00:00,Boston Celtics,96.0,Oklahoma City Thunder,99.0
+2016-12-11 08:30:00,New Orleans Pelicans,120.0,Phoenix Suns,119.0
+2016-12-11 09:30:00,New York Knicks,118.0,Los Angeles Lakers,112.0
+2016-12-12 07:00:00,Charlotte Hornets,94.0,Indiana Pacers,110.0
+2016-12-12 07:30:00,Milwaukee Bucks,100.0,Toronto Raptors,122.0
+2016-12-12 07:30:00,Washington Wizards,101.0,Miami Heat,112.0
+2016-12-12 08:00:00,Brooklyn Nets,118.0,Houston Rockets,122.0
+2016-12-12 08:30:00,Denver Nuggets,92.0,Dallas Mavericks,112.0
+2016-12-12 10:30:00,Los Angeles Lakers,92.0,Sacramento Kings,116.0
+2016-12-12 10:30:00,Portland Trail Blazers,120.0,Los Angeles Clippers,121.0
+2016-12-13 07:00:00,Memphis Grizzlies,86.0,Cleveland Cavaliers,103.0
+2016-12-13 07:30:00,Orlando Magic,131.0,Atlanta Hawks,120.0
+2016-12-13 08:00:00,Minnesota Timberwolves,99.0,Chicago Bulls,94.0
+2016-12-13 08:00:00,Golden State Warriors,113.0,New Orleans Pelicans,109.0
+2016-12-13 09:00:00,New York Knicks,111.0,Phoenix Suns,113.0
+2016-12-13 10:30:00,Oklahoma City Thunder,95.0,Portland Trail Blazers,114.0
+2016-12-14 07:00:00,Toronto Raptors,123.0,Philadelphia 76ers,114.0
+2016-12-14 07:00:00,Los Angeles Clippers,113.0,Orlando Magic,108.0
+2016-12-14 07:00:00,Indiana Pacers,89.0,Miami Heat,95.0
+2016-12-14 07:00:00,Charlotte Hornets,106.0,Washington Wizards,109.0
+2016-12-14 07:30:00,Los Angeles Lakers,97.0,Brooklyn Nets,107.0
+2016-12-14 08:00:00,Sacramento Kings,98.0,Houston Rockets,132.0
+2016-12-14 08:00:00,Cleveland Cavaliers,85.0,Memphis Grizzlies,93.0
+2016-12-14 08:30:00,Detroit Pistons,95.0,Dallas Mavericks,85.0
+2016-12-14 09:00:00,Oklahoma City Thunder,89.0,Utah Jazz,109.0
+2016-12-14 09:30:00,Boston Celtics,101.0,San Antonio Spurs,108.0
+2016-12-15 08:00:00,Indiana Pacers,95.0,New Orleans Pelicans,102.0
+2016-12-15 08:00:00,Chicago Bulls,97.0,Milwaukee Bucks,108.0
+2016-12-15 09:00:00,San Antonio Spurs,107.0,Phoenix Suns,92.0
+2016-12-15 09:00:00,Portland Trail Blazers,120.0,Denver Nuggets,132.0
+2016-12-15 10:30:00,New York Knicks,90.0,Golden State Warriors,103.0
+2016-12-16 07:00:00,Detroit Pistons,108.0,Washington Wizards,122.0
+2016-12-16 07:00:00,Brooklyn Nets,111.0,Orlando Magic,118.0
+2016-12-16 07:30:00,Atlanta Hawks,125.0,Toronto Raptors,121.0
+2016-12-16 07:30:00,Charlotte Hornets,88.0,Boston Celtics,96.0
+2016-12-16 08:00:00,Los Angeles Clippers,102.0,Miami Heat,98.0
+2016-12-16 08:00:00,New Orleans Pelicans,100.0,Houston Rockets,122.0
+2016-12-16 08:00:00,Los Angeles Lakers,100.0,Philadelphia 76ers,89.0
+2016-12-16 08:00:00,Milwaukee Bucks,95.0,Chicago Bulls,69.0
+2016-12-16 08:00:00,Sacramento Kings,96.0,Memphis Grizzlies,92.0
+2016-12-16 10:30:00,Dallas Mavericks,100.0,Utah Jazz,103.0
+2016-12-17 05:00:00,Phoenix Suns,101.0,Oklahoma City Thunder,114.0
+2016-12-17 07:00:00,Indiana Pacers,105.0,Detroit Pistons,90.0
+2016-12-17 07:30:00,Charlotte Hornets,107.0,Atlanta Hawks,99.0
+2016-12-17 07:30:00,Los Angeles Lakers,108.0,Cleveland Cavaliers,119.0
+2016-12-17 08:00:00,Houston Rockets,111.0,Minnesota Timberwolves,109.0
+2016-12-17 09:00:00,New York Knicks,114.0,Denver Nuggets,127.0
+2016-12-17 10:30:00,Portland Trail Blazers,90.0,Golden State Warriors,135.0
+2016-12-18 03:30:00,Los Angeles Clippers,110.0,Washington Wizards,117.0
+2016-12-18 04:00:00,Sacramento Kings,79.0,Dallas Mavericks,99.0
+2016-12-18 06:00:00,Brooklyn Nets,107.0,Philadelphia 76ers,108.0
+2016-12-18 06:00:00,Toronto Raptors,109.0,Orlando Magic,79.0
+2016-12-18 06:00:00,Boston Celtics,105.0,Miami Heat,95.0
+2016-12-18 06:00:00,Utah Jazz,82.0,Memphis Grizzlies,73.0
+2016-12-18 07:00:00,New Orleans Pelicans,100.0,San Antonio Spurs,113.0
+2016-12-19 07:00:00,Washington Wizards,105.0,Indiana Pacers,107.0
+2016-12-19 08:00:00,Detroit Pistons,82.0,Chicago Bulls,113.0
+2016-12-19 08:00:00,Phoenix Suns,108.0,Minnesota Timberwolves,115.0
+2016-12-19 08:00:00,Atlanta Hawks,110.0,Oklahoma City Thunder,108.0
+2016-12-19 09:00:00,Dallas Mavericks,107.0,Denver Nuggets,117.0
+2016-12-20 07:00:00,Los Angeles Lakers,113.0,Charlotte Hornets,117.0
+2016-12-20 07:00:00,New Orleans Pelicans,108.0,Philadelphia 76ers,93.0
+2016-12-20 07:30:00,Brooklyn Nets,104.0,Toronto Raptors,116.0
+2016-12-20 07:30:00,Orlando Magic,136.0,Miami Heat,130.0
+2016-12-20 07:30:00,Indiana Pacers,111.0,New York Knicks,118.0
+2016-12-20 08:00:00,San Antonio Spurs,102.0,Houston Rockets,100.0
+2016-12-20 08:00:00,Boston Celtics,112.0,Memphis Grizzlies,109.0
+2016-12-20 08:00:00,Cleveland Cavaliers,114.0,Milwaukee Bucks,108.0
+2016-12-20 10:30:00,Portland Trail Blazers,121.0,Sacramento Kings,126.0
+2016-12-20 10:30:00,Utah Jazz,74.0,Golden State Warriors,104.0
+2016-12-20 10:30:00,Denver Nuggets,102.0,Los Angeles Clippers,119.0
+2016-12-21 07:00:00,Milwaukee Bucks,102.0,Cleveland Cavaliers,113.0
+2016-12-21 07:30:00,Minnesota Timberwolves,92.0,Atlanta Hawks,84.0
+2016-12-21 07:30:00,Memphis Grizzlies,98.0,Detroit Pistons,86.0
+2016-12-21 08:00:00,Washington Wizards,107.0,Chicago Bulls,97.0
+2016-12-21 08:00:00,Oklahoma City Thunder,121.0,New Orleans Pelicans,110.0
+2016-12-21 09:00:00,Houston Rockets,125.0,Phoenix Suns,111.0
+2016-12-21 09:00:00,Sacramento Kings,94.0,Utah Jazz,93.0
+2016-12-21 10:00:00,Dallas Mavericks,96.0,Portland Trail Blazers,95.0
+2016-12-22 07:00:00,Boston Celtics,109.0,Indiana Pacers,102.0
+2016-12-22 07:30:00,Golden State Warriors,117.0,Brooklyn Nets,101.0
+2016-12-22 07:30:00,Orlando Magic,95.0,New York Knicks,106.0
+2016-12-22 08:00:00,Los Angeles Lakers,107.0,Miami Heat,115.0
+2016-12-22 10:30:00,San Antonio Spurs,101.0,Los Angeles Clippers,106.0
+2016-12-23 07:00:00,Chicago Bulls,91.0,Charlotte Hornets,103.0
+2016-12-23 07:00:00,Los Angeles Lakers,90.0,Orlando Magic,109.0
+2016-12-23 07:30:00,Golden State Warriors,119.0,Detroit Pistons,113.0
+2016-12-23 07:30:00,Brooklyn Nets,99.0,Cleveland Cavaliers,119.0
+2016-12-23 07:30:00,Oklahoma City Thunder,117.0,Boston Celtics,112.0
+2016-12-23 08:00:00,Houston Rockets,109.0,Memphis Grizzlies,115.0
+2016-12-23 08:00:00,Washington Wizards,96.0,Milwaukee Bucks,123.0
+2016-12-23 08:00:00,Sacramento Kings,109.0,Minnesota Timberwolves,105.0
+2016-12-23 08:00:00,Miami Heat,87.0,New Orleans Pelicans,91.0
+2016-12-23 09:00:00,Toronto Raptors,104.0,Utah Jazz,98.0
+2016-12-23 09:00:00,Atlanta Hawks,109.0,Denver Nuggets,108.0
+2016-12-23 09:00:00,Philadelphia 76ers,116.0,Phoenix Suns,123.0
+2016-12-23 10:00:00,San Antonio Spurs,110.0,Portland Trail Blazers,90.0
+2016-12-23 10:30:00,Dallas Mavericks,90.0,Los Angeles Clippers,88.0
+2016-12-25 00:00:00,Boston Celtics,119.0,New York Knicks,114.0
+2016-12-25 02:30:00,Golden State Warriors,108.0,Cleveland Cavaliers,109.0
+2016-12-25 05:00:00,Chicago Bulls,100.0,San Antonio Spurs,119.0
+2016-12-25 08:00:00,Minnesota Timberwolves,100.0,Oklahoma City Thunder,112.0
+2016-12-25 10:30:00,Los Angeles Clippers,102.0,Los Angeles Lakers,111.0
+2016-12-26 07:00:00,Memphis Grizzlies,102.0,Orlando Magic,112.0
+2016-12-26 07:00:00,Milwaukee Bucks,102.0,Washington Wizards,107.0
+2016-12-26 07:30:00,Cleveland Cavaliers,90.0,Detroit Pistons,106.0
+2016-12-26 07:30:00,Charlotte Hornets,118.0,Brooklyn Nets,120.0
+2016-12-26 08:00:00,Dallas Mavericks,104.0,New Orleans Pelicans,111.0
+2016-12-26 08:00:00,Phoenix Suns,115.0,Houston Rockets,131.0
+2016-12-26 08:00:00,Atlanta Hawks,90.0,Minnesota Timberwolves,104.0
+2016-12-26 08:00:00,Indiana Pacers,85.0,Chicago Bulls,90.0
+2016-12-26 10:00:00,Toronto Raptors,95.0,Portland Trail Blazers,91.0
+2016-12-26 10:30:00,Denver Nuggets,106.0,Los Angeles Clippers,102.0
+2016-12-26 10:30:00,Philadelphia 76ers,100.0,Sacramento Kings,102.0
+2016-12-27 07:30:00,Memphis Grizzlies,103.0,Boston Celtics,113.0
+2016-12-27 07:30:00,Oklahoma City Thunder,106.0,Miami Heat,94.0
+2016-12-27 08:30:00,Houston Rockets,123.0,Dallas Mavericks,107.0
+2016-12-27 10:30:00,Utah Jazz,102.0,Los Angeles Lakers,100.0
+2016-12-28 07:00:00,Indiana Pacers,105.0,Washington Wizards,111.0
+2016-12-28 07:00:00,Charlotte Hornets,120.0,Orlando Magic,101.0
+2016-12-28 07:30:00,New York Knicks,98.0,Atlanta Hawks,102.0
+2016-12-28 07:30:00,Milwaukee Bucks,119.0,Detroit Pistons,94.0
+2016-12-28 08:00:00,Brooklyn Nets,99.0,Chicago Bulls,101.0
+2016-12-28 08:00:00,Los Angeles Clippers,98.0,New Orleans Pelicans,102.0
+2016-12-28 08:30:00,Phoenix Suns,98.0,San Antonio Spurs,119.0
+2016-12-28 09:00:00,Minnesota Timberwolves,103.0,Denver Nuggets,105.0
+2016-12-28 10:00:00,Sacramento Kings,89.0,Portland Trail Blazers,102.0
+2016-12-28 10:30:00,Toronto Raptors,111.0,Golden State Warriors,121.0
+2016-12-29 07:00:00,Miami Heat,82.0,Charlotte Hornets,91.0
+2016-12-29 08:00:00,Boston Celtics,118.0,Cleveland Cavaliers,124.0
+2016-12-29 08:00:00,Oklahoma City Thunder,80.0,Memphis Grizzlies,114.0
+2016-12-29 09:00:00,Philadelphia 76ers,83.0,Utah Jazz,100.0
+2016-12-29 09:00:00,Toronto Raptors,91.0,Phoenix Suns,99.0
+2016-12-29 10:30:00,Dallas Mavericks,101.0,Los Angeles Lakers,89.0
+2016-12-30 04:00:00,Chicago Bulls,101.0,Indiana Pacers,111.0
+2016-12-30 07:00:00,Brooklyn Nets,95.0,Washington Wizards,118.0
+2016-12-30 07:30:00,Miami Heat,114.0,Boston Celtics,117.0
+2016-12-30 08:00:00,Detroit Pistons,98.0,Atlanta Hawks,105.0
+2016-12-30 08:00:00,Los Angeles Clippers,116.0,Houston Rockets,140.0
+2016-12-30 08:00:00,Milwaukee Bucks,99.0,Minnesota Timberwolves,116.0
+2016-12-30 08:00:00,New York Knicks,92.0,New Orleans Pelicans,104.0
+2016-12-30 08:30:00,Portland Trail Blazers,94.0,San Antonio Spurs,110.0
+2016-12-30 09:00:00,Philadelphia 76ers,124.0,Denver Nuggets,122.0
+2016-12-30 10:30:00,Dallas Mavericks,99.0,Golden State Warriors,108.0
+2016-12-31 05:00:00,Memphis Grizzlies,112.0,Sacramento Kings,98.0
+2016-12-31 07:00:00,Milwaukee Bucks,116.0,Chicago Bulls,96.0
+2016-12-31 07:00:00,Cleveland Cavaliers,121.0,Charlotte Hornets,109.0
+2016-12-31 08:00:00,Phoenix Suns,86.0,Utah Jazz,91.0
+2016-12-31 08:00:00,Los Angeles Clippers,88.0,Oklahoma City Thunder,114.0
+2016-12-31 08:00:00,New York Knicks,122.0,Houston Rockets,129.0
+2017-01-01 06:00:00,San Antonio Spurs,112.0,Atlanta Hawks,114.0
+2017-01-01 06:00:00,Orlando Magic,104.0,Indiana Pacers,117.0
+2017-01-01 06:00:00,Detroit Pistons,107.0,Miami Heat,98.0
+2017-01-01 07:00:00,Portland Trail Blazers,95.0,Minnesota Timberwolves,89.0
+2017-01-01 09:30:00,Toronto Raptors,123.0,Los Angeles Lakers,114.0
+2017-01-02 07:00:00,New Orleans Pelicans,82.0,Cleveland Cavaliers,90.0
+2017-01-02 07:00:00,Oklahoma City Thunder,94.0,Milwaukee Bucks,98.0
+2017-01-02 07:30:00,Utah Jazz,101.0,Brooklyn Nets,89.0
+2017-01-02 07:30:00,Orlando Magic,115.0,New York Knicks,103.0
+2017-01-02 08:00:00,Charlotte Hornets,111.0,Chicago Bulls,118.0
+2017-01-02 08:00:00,Washington Wizards,91.0,Houston Rockets,101.0
+2017-01-02 10:30:00,Denver Nuggets,119.0,Golden State Warriors,127.0
+2017-01-02 10:30:00,Phoenix Suns,98.0,Los Angeles Clippers,109.0
+2017-01-03 07:00:00,Minnesota Timberwolves,91.0,Philadelphia 76ers,93.0
+2017-01-03 07:30:00,Indiana Pacers,121.0,Detroit Pistons,116.0
+2017-01-03 07:30:00,Utah Jazz,104.0,Boston Celtics,115.0
+2017-01-03 08:30:00,Washington Wizards,105.0,Dallas Mavericks,113.0
+2017-01-03 08:30:00,Toronto Raptors,82.0,San Antonio Spurs,110.0
+2017-01-03 09:00:00,Miami Heat,90.0,Phoenix Suns,99.0
+2017-01-03 09:00:00,Sacramento Kings,120.0,Denver Nuggets,113.0
+2017-01-03 10:30:00,Memphis Grizzlies,102.0,Los Angeles Lakers,116.0
+2017-01-04 07:00:00,Oklahoma City Thunder,112.0,Charlotte Hornets,123.0
+2017-01-04 07:00:00,Atlanta Hawks,111.0,Orlando Magic,92.0
+2017-01-04 07:30:00,Milwaukee Bucks,105.0,New York Knicks,104.0
+2017-01-04 08:00:00,Chicago Bulls,106.0,Cleveland Cavaliers,94.0
+2017-01-04 10:30:00,Miami Heat,107.0,Sacramento Kings,102.0
+2017-01-04 10:30:00,Portland Trail Blazers,117.0,Golden State Warriors,125.0
+2017-01-04 10:30:00,Memphis Grizzlies,106.0,Los Angeles Clippers,115.0
+2017-01-05 07:00:00,Brooklyn Nets,109.0,Indiana Pacers,121.0
+2017-01-05 07:30:00,Charlotte Hornets,114.0,Detroit Pistons,115.0
+2017-01-05 07:30:00,Utah Jazz,93.0,Toronto Raptors,101.0
+2017-01-05 08:00:00,Atlanta Hawks,99.0,New Orleans Pelicans,94.0
+2017-01-05 08:00:00,Oklahoma City Thunder,116.0,Houston Rockets,118.0
+2017-01-05 08:30:00,Phoenix Suns,102.0,Dallas Mavericks,95.0
+2017-01-05 09:00:00,San Antonio Spurs,127.0,Denver Nuggets,99.0
+2017-01-05 10:30:00,Los Angeles Lakers,109.0,Portland Trail Blazers,118.0
+2017-01-06 07:00:00,Houston Rockets,100.0,Orlando Magic,93.0
+2017-01-06 07:00:00,Minnesota Timberwolves,105.0,Washington Wizards,112.0
+2017-01-06 07:30:00,Philadelphia 76ers,106.0,Boston Celtics,110.0
+2017-01-06 07:30:00,Cleveland Cavaliers,116.0,Brooklyn Nets,108.0
+2017-01-06 08:00:00,New York Knicks,116.0,Milwaukee Bucks,111.0
+2017-01-06 10:30:00,Memphis Grizzlies,128.0,Golden State Warriors,119.0
+2017-01-06 10:30:00,Miami Heat,100.0,Los Angeles Lakers,127.0
+2017-01-06 10:30:00,Los Angeles Clippers,106.0,Sacramento Kings,98.0
+2017-01-07 07:00:00,New York Knicks,109.0,Indiana Pacers,123.0
+2017-01-07 07:30:00,New Orleans Pelicans,108.0,Boston Celtics,117.0
+2017-01-07 08:00:00,Denver Nuggets,106.0,Oklahoma City Thunder,121.0
+2017-01-07 08:00:00,Toronto Raptors,118.0,Chicago Bulls,123.0
+2017-01-07 08:00:00,Utah Jazz,94.0,Minnesota Timberwolves,92.0
+2017-01-07 08:30:00,Charlotte Hornets,85.0,San Antonio Spurs,102.0
+2017-01-07 08:30:00,Atlanta Hawks,97.0,Dallas Mavericks,82.0
+2017-01-08 00:00:00,Philadelphia 76ers,105.0,Brooklyn Nets,95.0
+2017-01-08 02:00:00,Washington Wizards,107.0,Milwaukee Bucks,101.0
+2017-01-08 03:30:00,Miami Heat,86.0,Los Angeles Clippers,98.0
+2017-01-08 06:00:00,Houston Rockets,129.0,Toronto Raptors,122.0
+2017-01-08 08:00:00,Utah Jazz,79.0,Memphis Grizzlies,88.0
+2017-01-08 08:30:00,Cleveland Cavaliers,120.0,Phoenix Suns,116.0
+2017-01-08 09:00:00,Golden State Warriors,117.0,Sacramento Kings,106.0
+2017-01-08 09:00:00,Detroit Pistons,125.0,Portland Trail Blazers,124.0
+2017-01-08 09:30:00,Orlando Magic,95.0,Los Angeles Lakers,111.0
+2017-01-09 07:30:00,New Orleans Pelicans,110.0,New York Knicks,96.0
+2017-01-09 08:00:00,Oklahoma City Thunder,109.0,Chicago Bulls,94.0
+2017-01-09 08:00:00,Dallas Mavericks,92.0,Minnesota Timberwolves,101.0
+2017-01-10 07:00:00,Chicago Bulls,99.0,Washington Wizards,101.0
+2017-01-10 07:30:00,Atlanta Hawks,117.0,Brooklyn Nets,97.0
+2017-01-10 07:30:00,Boston Celtics,106.0,Toronto Raptors,114.0
+2017-01-10 08:00:00,Charlotte Hornets,114.0,Houston Rockets,121.0
+2017-01-10 08:30:00,Milwaukee Bucks,109.0,San Antonio Spurs,107.0
+2017-01-10 09:00:00,Cleveland Cavaliers,92.0,Utah Jazz,100.0
+2017-01-10 10:30:00,Portland Trail Blazers,108.0,Los Angeles Lakers,87.0
+2017-01-10 10:30:00,Detroit Pistons,94.0,Sacramento Kings,100.0
+2017-01-10 10:30:00,Miami Heat,95.0,Golden State Warriors,107.0
+2017-01-11 07:00:00,New York Knicks,97.0,Philadelphia 76ers,98.0
+2017-01-11 08:00:00,Washington Wizards,108.0,Boston Celtics,117.0
+2017-01-11 08:00:00,Houston Rockets,105.0,Minnesota Timberwolves,119.0
+2017-01-11 08:00:00,Memphis Grizzlies,95.0,Oklahoma City Thunder,103.0
+2017-01-11 10:30:00,Orlando Magic,96.0,Los Angeles Clippers,105.0
+2017-01-11 10:30:00,Cleveland Cavaliers,86.0,Portland Trail Blazers,102.0
+2017-01-12 03:00:00,Indiana Pacers,112.0,Denver Nuggets,140.0
+2017-01-12 07:30:00,New Orleans Pelicans,104.0,Brooklyn Nets,95.0
+2017-01-12 08:00:00,Chicago Bulls,89.0,New York Knicks,104.0
+2017-01-12 08:30:00,Los Angeles Lakers,94.0,San Antonio Spurs,134.0
+2017-01-12 10:00:00,Dallas Mavericks,113.0,Phoenix Suns,108.0
+2017-01-12 10:30:00,Detroit Pistons,107.0,Golden State Warriors,127.0
+2017-01-13 07:00:00,Charlotte Hornets,93.0,Philadelphia 76ers,102.0
+2017-01-13 07:30:00,Brooklyn Nets,113.0,Toronto Raptors,132.0
+2017-01-13 08:00:00,Oklahoma City Thunder,86.0,Minnesota Timberwolves,96.0
+2017-01-13 08:00:00,Miami Heat,108.0,Milwaukee Bucks,116.0
+2017-01-13 08:00:00,Boston Celtics,103.0,Atlanta Hawks,101.0
+2017-01-13 08:00:00,Memphis Grizzlies,110.0,Houston Rockets,105.0
+2017-01-13 10:00:00,Orlando Magic,115.0,Portland Trail Blazers,109.0
+2017-01-13 10:30:00,Cleveland Cavaliers,120.0,Sacramento Kings,108.0
+2017-01-13 10:30:00,Detroit Pistons,77.0,Utah Jazz,110.0
+2017-01-14 03:30:00,Los Angeles Lakers,97.0,Los Angeles Clippers,113.0
+2017-01-14 05:00:00,New Orleans Pelicans,99.0,Chicago Bulls,107.0
+2017-01-14 06:00:00,San Antonio Spurs,105.0,Phoenix Suns,108.0
+2017-01-14 08:00:00,Philadelphia 76ers,93.0,Washington Wizards,109.0
+2017-01-14 09:00:00,Orlando Magic,107.0,Utah Jazz,114.0
+2017-01-15 02:00:00,Minnesota Timberwolves,87.0,Dallas Mavericks,98.0
+2017-01-15 03:00:00,Milwaukee Bucks,98.0,Atlanta Hawks,111.0
+2017-01-15 03:00:00,New York Knicks,101.0,Toronto Raptors,116.0
+2017-01-15 06:00:00,Houston Rockets,137.0,Brooklyn Nets,112.0
+2017-01-15 09:00:00,Chicago Bulls,108.0,Memphis Grizzlies,104.0
+2017-01-15 09:00:00,Oklahoma City Thunder,122.0,Sacramento Kings,118.0
+2017-01-15 09:30:00,Detroit Pistons,102.0,Los Angeles Lakers,97.0
+2017-01-16 01:00:00,Atlanta Hawks,108.0,New York Knicks,107.0
+2017-01-16 02:00:00,Portland Trail Blazers,101.0,Washington Wizards,120.0
+2017-01-16 03:30:00,Philadelphia 76ers,113.0,Milwaukee Bucks,104.0
+2017-01-16 04:00:00,New Orleans Pelicans,95.0,Indiana Pacers,98.0
+2017-01-16 05:00:00,Orlando Magic,112.0,Denver Nuggets,125.0
+2017-01-16 07:30:00,Charlotte Hornets,98.0,Boston Celtics,108.0
+2017-01-16 08:00:00,Cleveland Cavaliers,91.0,Golden State Warriors,126.0
+2017-01-16 09:00:00,Utah Jazz,106.0,Phoenix Suns,101.0
+2017-01-16 10:30:00,Oklahoma City Thunder,98.0,Los Angeles Clippers,120.0
+2017-01-17 07:30:00,Toronto Raptors,119.0,Brooklyn Nets,109.0
+2017-01-17 07:30:00,Houston Rockets,103.0,Miami Heat,109.0
+2017-01-17 08:00:00,Dallas Mavericks,99.0,Chicago Bulls,98.0
+2017-01-17 08:30:00,Minnesota Timberwolves,114.0,San Antonio Spurs,122.0
+2017-01-17 10:30:00,Denver Nuggets,127.0,Los Angeles Lakers,121.0
+2017-01-18 07:00:00,Toronto Raptors,89.0,Philadelphia 76ers,94.0
+2017-01-18 07:00:00,Memphis Grizzlies,101.0,Washington Wizards,104.0
+2017-01-18 07:00:00,Portland Trail Blazers,85.0,Charlotte Hornets,107.0
+2017-01-18 07:30:00,New York Knicks,117.0,Boston Celtics,106.0
+2017-01-18 08:00:00,Atlanta Hawks,95.0,Detroit Pistons,118.0
+2017-01-18 08:00:00,Milwaukee Bucks,92.0,Houston Rockets,111.0
+2017-01-18 08:00:00,Orlando Magic,98.0,New Orleans Pelicans,118.0
+2017-01-18 10:30:00,Oklahoma City Thunder,100.0,Golden State Warriors,121.0
+2017-01-18 10:30:00,Indiana Pacers,106.0,Sacramento Kings,100.0
+2017-01-19 07:00:00,Phoenix Suns,103.0,Cleveland Cavaliers,118.0
+2017-01-19 07:30:00,Dallas Mavericks,95.0,Miami Heat,99.0
+2017-01-19 08:00:00,Washington Wizards,113.0,New York Knicks,110.0
+2017-01-19 08:30:00,Denver Nuggets,104.0,San Antonio Spurs,118.0
+2017-01-19 10:30:00,Minnesota Timberwolves,104.0,Los Angeles Clippers,101.0
+2017-01-20 07:00:00,Portland Trail Blazers,92.0,Philadelphia 76ers,93.0
+2017-01-20 07:00:00,Toronto Raptors,78.0,Charlotte Hornets,113.0
+2017-01-20 07:00:00,Milwaukee Bucks,96.0,Orlando Magic,112.0
+2017-01-20 08:00:00,Brooklyn Nets,143.0,New Orleans Pelicans,114.0
+2017-01-20 08:00:00,Sacramento Kings,91.0,Memphis Grizzlies,107.0
+2017-01-20 08:00:00,Chicago Bulls,93.0,Atlanta Hawks,102.0
+2017-01-20 08:00:00,Golden State Warriors,125.0,Houston Rockets,108.0
+2017-01-20 08:30:00,Utah Jazz,112.0,Dallas Mavericks,107.0
+2017-01-20 10:30:00,Indiana Pacers,95.0,Los Angeles Lakers,108.0
+2017-01-21 05:00:00,Portland Trail Blazers,127.0,Boston Celtics,123.0
+2017-01-21 06:00:00,Washington Wizards,112.0,Detroit Pistons,113.0
+2017-01-21 07:00:00,Brooklyn Nets,105.0,Charlotte Hornets,112.0
+2017-01-21 07:00:00,Philadelphia 76ers,93.0,Atlanta Hawks,110.0
+2017-01-21 07:30:00,Phoenix Suns,107.0,New York Knicks,105.0
+2017-01-21 07:30:00,Milwaukee Bucks,97.0,Miami Heat,109.0
+2017-01-21 08:00:00,Houston Rockets,119.0,Memphis Grizzlies,95.0
+2017-01-21 08:30:00,San Antonio Spurs,118.0,Cleveland Cavaliers,115.0
+2017-01-21 09:00:00,Indiana Pacers,100.0,Utah Jazz,109.0
+2017-01-21 09:00:00,Los Angeles Clippers,98.0,Denver Nuggets,123.0
+2017-01-21 09:00:00,Sacramento Kings,99.0,Chicago Bulls,102.0
+2017-01-22 00:00:00,Golden State Warriors,118.0,Orlando Magic,98.0
+2017-01-22 03:30:00,Los Angeles Lakers,73.0,Dallas Mavericks,122.0
+2017-01-22 06:00:00,Phoenix Suns,115.0,Toronto Raptors,103.0
+2017-01-22 07:00:00,Denver Nuggets,108.0,Minnesota Timberwolves,111.0
+2017-01-23 07:00:00,Washington Wizards,109.0,Charlotte Hornets,99.0
+2017-01-23 07:30:00,Sacramento Kings,109.0,Detroit Pistons,104.0
+2017-01-23 07:30:00,Golden State Warriors,102.0,Miami Heat,105.0
+2017-01-23 07:30:00,San Antonio Spurs,112.0,Brooklyn Nets,86.0
+2017-01-23 07:30:00,Los Angeles Clippers,115.0,Atlanta Hawks,105.0
+2017-01-23 08:00:00,New York Knicks,109.0,Indiana Pacers,103.0
+2017-01-23 08:00:00,Houston Rockets,114.0,Milwaukee Bucks,127.0
+2017-01-23 08:00:00,Cleveland Cavaliers,122.0,New Orleans Pelicans,124.0
+2017-01-23 09:00:00,Oklahoma City Thunder,97.0,Utah Jazz,95.0
+2017-01-24 07:00:00,San Antonio Spurs,108.0,Toronto Raptors,106.0
+2017-01-24 07:00:00,Chicago Bulls,100.0,Orlando Magic,92.0
+2017-01-24 07:00:00,Los Angeles Clippers,110.0,Philadelphia 76ers,121.0
+2017-01-24 07:00:00,Boston Celtics,108.0,Washington Wizards,123.0
+2017-01-24 09:00:00,Minnesota Timberwolves,112.0,Phoenix Suns,111.0
+2017-01-24 09:00:00,Utah Jazz,93.0,Denver Nuggets,103.0
+2017-01-25 07:00:00,Sacramento Kings,116.0,Cleveland Cavaliers,112.0
+2017-01-25 07:30:00,Houston Rockets,109.0,Boston Celtics,120.0
+2017-01-25 07:30:00,Miami Heat,109.0,Brooklyn Nets,106.0
+2017-01-25 08:00:00,Atlanta Hawks,119.0,Chicago Bulls,114.0
+2017-01-25 08:00:00,Golden State Warriors,113.0,Charlotte Hornets,103.0
+2017-01-25 08:00:00,Toronto Raptors,99.0,Memphis Grizzlies,101.0
+2017-01-25 08:00:00,Philadelphia 76ers,114.0,Milwaukee Bucks,109.0
+2017-01-25 08:00:00,Oklahoma City Thunder,114.0,New Orleans Pelicans,105.0
+2017-01-25 08:30:00,New York Knicks,95.0,Dallas Mavericks,103.0
+2017-01-25 10:30:00,Los Angeles Lakers,98.0,Portland Trail Blazers,105.0
+2017-01-26 08:00:00,Indiana Pacers,109.0,Minnesota Timberwolves,103.0
+2017-01-26 08:00:00,Dallas Mavericks,98.0,Oklahoma City Thunder,109.0
+2017-01-26 09:00:00,Phoenix Suns,120.0,Denver Nuggets,127.0
+2017-01-26 10:30:00,Los Angeles Lakers,88.0,Utah Jazz,96.0
+2017-01-27 07:00:00,Sacramento Kings,111.0,Indiana Pacers,115.0
+2017-01-27 07:30:00,Orlando Magic,98.0,Boston Celtics,128.0
+2017-01-27 07:30:00,Brooklyn Nets,116.0,Cleveland Cavaliers,124.0
+2017-01-27 07:30:00,Milwaukee Bucks,86.0,Toronto Raptors,102.0
+2017-01-27 07:30:00,Charlotte Hornets,107.0,New York Knicks,110.0
+2017-01-27 08:00:00,Houston Rockets,123.0,Philadelphia 76ers,118.0
+2017-01-27 08:00:00,Washington Wizards,112.0,Atlanta Hawks,86.0
+2017-01-27 08:00:00,Miami Heat,100.0,Chicago Bulls,88.0
+2017-01-27 08:00:00,San Antonio Spurs,103.0,New Orleans Pelicans,119.0
+2017-01-27 10:00:00,Memphis Grizzlies,109.0,Portland Trail Blazers,112.0
+2017-01-28 07:00:00,Sacramento Kings,109.0,Charlotte Hornets,106.0
+2017-01-28 07:30:00,Detroit Pistons,103.0,Miami Heat,116.0
+2017-01-28 08:00:00,Boston Celtics,112.0,Milwaukee Bucks,108.0
+2017-01-28 08:30:00,Los Angeles Clippers,98.0,Golden State Warriors,144.0
+2017-01-28 09:00:00,Brooklyn Nets,109.0,Minnesota Timberwolves,129.0
+2017-01-28 09:00:00,Denver Nuggets,123.0,Phoenix Suns,112.0
+2017-01-28 09:00:00,Memphis Grizzlies,102.0,Utah Jazz,95.0
+2017-01-29 03:00:00,New York Knicks,139.0,Atlanta Hawks,142.0
+2017-01-29 03:30:00,Oklahoma City Thunder,91.0,Cleveland Cavaliers,107.0
+2017-01-29 06:00:00,Orlando Magic,114.0,Toronto Raptors,113.0
+2017-01-29 06:00:00,Houston Rockets,101.0,Indiana Pacers,120.0
+2017-01-29 06:00:00,Washington Wizards,107.0,New Orleans Pelicans,94.0
+2017-01-29 07:00:00,Dallas Mavericks,105.0,San Antonio Spurs,101.0
+2017-01-29 07:00:00,Philadelphia 76ers,108.0,Chicago Bulls,121.0
+2017-01-29 09:00:00,Golden State Warriors,113.0,Portland Trail Blazers,111.0
+2017-01-30 06:00:00,Sacramento Kings,119.0,Philadelphia 76ers,122.0
+2017-01-30 07:30:00,Brooklyn Nets,96.0,Miami Heat,104.0
+2017-01-30 08:00:00,Detroit Pistons,109.0,Boston Celtics,113.0
+2017-01-30 08:00:00,Orlando Magic,105.0,Minnesota Timberwolves,111.0
+2017-01-30 08:30:00,Cleveland Cavaliers,97.0,Dallas Mavericks,104.0
+2017-01-30 10:30:00,Memphis Grizzlies,115.0,Phoenix Suns,96.0
+2017-01-31 07:00:00,New York Knicks,101.0,Washington Wizards,117.0
+2017-01-31 07:00:00,New Orleans Pelicans,106.0,Toronto Raptors,108.0
+2017-01-31 08:00:00,Sacramento Kings,83.0,Houston Rockets,105.0
+2017-01-31 08:30:00,Oklahoma City Thunder,94.0,San Antonio Spurs,108.0
+2017-01-31 10:00:00,Charlotte Hornets,98.0,Portland Trail Blazers,115.0
+2017-01-31 10:30:00,Denver Nuggets,116.0,Los Angeles Lakers,120.0
+2017-02-01 07:00:00,Indiana Pacers,98.0,Orlando Magic,88.0
+2017-02-01 07:00:00,Minnesota Timberwolves,97.0,Cleveland Cavaliers,125.0
+2017-02-01 07:30:00,Atlanta Hawks,93.0,Miami Heat,116.0
+2017-02-01 07:30:00,New Orleans Pelicans,98.0,Detroit Pistons,118.0
+2017-02-01 07:30:00,New York Knicks,95.0,Brooklyn Nets,90.0
+2017-02-01 07:30:00,Toronto Raptors,104.0,Boston Celtics,109.0
+2017-02-01 08:30:00,Philadelphia 76ers,95.0,Dallas Mavericks,113.0
+2017-02-01 09:00:00,Memphis Grizzlies,119.0,Denver Nuggets,99.0
+2017-02-01 09:00:00,Los Angeles Clippers,124.0,Phoenix Suns,114.0
+2017-02-01 09:00:00,Milwaukee Bucks,88.0,Utah Jazz,104.0
+2017-02-01 09:30:00,Chicago Bulls,128.0,Oklahoma City Thunder,100.0
+2017-02-01 10:30:00,Charlotte Hornets,111.0,Golden State Warriors,126.0
+2017-02-02 07:00:00,Los Angeles Lakers,108.0,Washington Wizards,116.0
+2017-02-02 08:00:00,Atlanta Hawks,113.0,Houston Rockets,108.0
+2017-02-02 08:30:00,Philadelphia 76ers,86.0,San Antonio Spurs,102.0
+2017-02-02 10:30:00,Golden State Warriors,133.0,Los Angeles Clippers,120.0
+2017-02-03 07:00:00,Toronto Raptors,94.0,Orlando Magic,102.0
+2017-02-03 07:30:00,Indiana Pacers,106.0,Brooklyn Nets,97.0
+2017-02-03 07:30:00,Minnesota Timberwolves,108.0,Detroit Pistons,116.0
+2017-02-03 08:00:00,Chicago Bulls,117.0,Houston Rockets,121.0
+2017-02-03 08:00:00,Memphis Grizzlies,102.0,Oklahoma City Thunder,114.0
+2017-02-03 08:00:00,Los Angeles Lakers,107.0,Boston Celtics,113.0
+2017-02-03 09:00:00,Milwaukee Bucks,117.0,Denver Nuggets,121.0
+2017-02-03 10:30:00,Dallas Mavericks,108.0,Portland Trail Blazers,104.0
+2017-02-03 10:30:00,Phoenix Suns,105.0,Sacramento Kings,103.0
+2017-02-04 07:00:00,New Orleans Pelicans,91.0,Washington Wizards,105.0
+2017-02-04 07:00:00,Orlando Magic,86.0,Atlanta Hawks,113.0
+2017-02-04 07:00:00,Detroit Pistons,84.0,Indiana Pacers,105.0
+2017-02-04 07:30:00,Philadelphia 76ers,102.0,Miami Heat,125.0
+2017-02-04 08:30:00,Cleveland Cavaliers,111.0,New York Knicks,104.0
+2017-02-04 09:00:00,Milwaukee Bucks,137.0,Phoenix Suns,112.0
+2017-02-04 09:00:00,Denver Nuggets,97.0,San Antonio Spurs,121.0
+2017-02-04 09:00:00,Charlotte Hornets,98.0,Utah Jazz,105.0
+2017-02-04 09:00:00,Memphis Grizzlies,107.0,Minnesota Timberwolves,99.0
+2017-02-04 10:30:00,Golden State Warriors,106.0,Sacramento Kings,109.0
+2017-02-05 00:00:00,Toronto Raptors,103.0,Brooklyn Nets,95.0
+2017-02-05 02:00:00,Los Angeles Clippers,102.0,Boston Celtics,107.0
+2017-02-05 03:00:00,Portland Trail Blazers,99.0,Oklahoma City Thunder,105.0
+2017-02-06 07:00:00,Los Angeles Lakers,121.0,New York Knicks,107.0
+2017-02-06 07:00:00,Cleveland Cavaliers,140.0,Washington Wizards,135.0
+2017-02-06 07:00:00,Oklahoma City Thunder,90.0,Indiana Pacers,93.0
+2017-02-06 07:30:00,Los Angeles Clippers,109.0,Toronto Raptors,118.0
+2017-02-06 07:30:00,Utah Jazz,120.0,Atlanta Hawks,95.0
+2017-02-06 07:30:00,Philadelphia 76ers,96.0,Detroit Pistons,113.0
+2017-02-06 08:00:00,Miami Heat,115.0,Minnesota Timberwolves,113.0
+2017-02-06 08:00:00,Phoenix Suns,106.0,New Orleans Pelicans,111.0
+2017-02-06 09:00:00,Dallas Mavericks,87.0,Denver Nuggets,110.0
+2017-02-06 09:30:00,San Antonio Spurs,74.0,Memphis Grizzlies,89.0
+2017-02-06 10:30:00,Chicago Bulls,112.0,Sacramento Kings,107.0
+2017-02-07 07:00:00,Brooklyn Nets,107.0,Charlotte Hornets,111.0
+2017-02-07 08:00:00,Orlando Magic,104.0,Houston Rockets,128.0
+2017-02-07 08:30:00,Portland Trail Blazers,114.0,Dallas Mavericks,113.0
+2017-02-08 07:00:00,San Antonio Spurs,111.0,Philadelphia 76ers,103.0
+2017-02-08 07:00:00,Cleveland Cavaliers,132.0,Indiana Pacers,117.0
+2017-02-08 07:30:00,Los Angeles Lakers,102.0,Detroit Pistons,121.0
+2017-02-08 07:30:00,Denver Nuggets,106.0,Atlanta Hawks,117.0
+2017-02-08 07:30:00,Washington Wizards,114.0,Brooklyn Nets,110.0
+2017-02-08 08:00:00,Phoenix Suns,91.0,Memphis Grizzlies,110.0
+2017-02-08 08:00:00,Miami Heat,106.0,Milwaukee Bucks,88.0
+2017-02-08 08:00:00,Toronto Raptors,109.0,Minnesota Timberwolves,112.0
+2017-02-08 08:00:00,Utah Jazz,127.0,New Orleans Pelicans,94.0
+2017-02-08 08:00:00,Los Angeles Clippers,119.0,New York Knicks,115.0
+2017-02-08 10:30:00,Chicago Bulls,92.0,Golden State Warriors,123.0
+2017-02-08 10:30:00,Boston Celtics,92.0,Sacramento Kings,108.0
+2017-02-09 07:00:00,Houston Rockets,107.0,Charlotte Hornets,95.0
+2017-02-09 07:00:00,Philadelphia 76ers,112.0,Orlando Magic,111.0
+2017-02-09 08:00:00,Cleveland Cavaliers,109.0,Oklahoma City Thunder,118.0
+2017-02-09 08:30:00,Utah Jazz,105.0,Dallas Mavericks,112.0
+2017-02-09 10:30:00,Boston Celtics,120.0,Portland Trail Blazers,111.0
+2017-02-10 07:30:00,San Antonio Spurs,103.0,Detroit Pistons,92.0
+2017-02-10 07:30:00,Denver Nuggets,131.0,New York Knicks,123.0
+2017-02-10 07:30:00,Miami Heat,108.0,Brooklyn Nets,99.0
+2017-02-10 08:00:00,Indiana Pacers,107.0,Washington Wizards,112.0
+2017-02-10 08:00:00,Golden State Warriors,122.0,Memphis Grizzlies,107.0
+2017-02-10 08:00:00,Los Angeles Lakers,122.0,Milwaukee Bucks,114.0
+2017-02-10 08:00:00,New Orleans Pelicans,122.0,Minnesota Timberwolves,106.0
+2017-02-10 10:30:00,Chicago Bulls,97.0,Phoenix Suns,115.0
+2017-02-10 10:30:00,Atlanta Hawks,107.0,Sacramento Kings,108.0
+2017-02-11 05:00:00,Los Angeles Clippers,107.0,Charlotte Hornets,102.0
+2017-02-11 07:00:00,Milwaukee Bucks,116.0,Indiana Pacers,100.0
+2017-02-11 07:30:00,Miami Heat,109.0,Philadelphia 76ers,117.0
+2017-02-11 07:30:00,Denver Nuggets,109.0,Cleveland Cavaliers,125.0
+2017-02-11 08:30:00,Golden State Warriors,130.0,Oklahoma City Thunder,114.0
+2017-02-11 09:00:00,Orlando Magic,80.0,Dallas Mavericks,112.0
+2017-02-11 09:00:00,Phoenix Suns,102.0,Houston Rockets,133.0
+2017-02-11 10:00:00,Boston Celtics,112.0,Utah Jazz,104.0
+2017-02-12 03:30:00,San Antonio Spurs,90.0,New York Knicks,94.0
+2017-02-12 03:30:00,Chicago Bulls,89.0,Minnesota Timberwolves,117.0
+2017-02-12 06:00:00,Detroit Pistons,102.0,Toronto Raptors,101.0
+2017-02-12 09:00:00,New Orleans Pelicans,99.0,Sacramento Kings,105.0
+2017-02-13 07:00:00,Philadelphia 76ers,105.0,Charlotte Hornets,99.0
+2017-02-13 07:00:00,San Antonio Spurs,110.0,Indiana Pacers,106.0
+2017-02-13 07:30:00,Memphis Grizzlies,112.0,Brooklyn Nets,103.0
+2017-02-13 07:30:00,Orlando Magic,116.0,Miami Heat,107.0
+2017-02-13 08:00:00,Detroit Pistons,89.0,Milwaukee Bucks,102.0
+2017-02-13 08:00:00,Oklahoma City Thunder,98.0,Washington Wizards,120.0
+2017-02-13 08:30:00,Boston Celtics,111.0,Dallas Mavericks,98.0
+2017-02-13 09:00:00,Golden State Warriors,110.0,Denver Nuggets,132.0
+2017-02-13 09:00:00,New Orleans Pelicans,110.0,Phoenix Suns,108.0
+2017-02-13 09:00:00,Los Angeles Clippers,88.0,Utah Jazz,72.0
+2017-02-13 10:30:00,Atlanta Hawks,109.0,Portland Trail Blazers,104.0
+2017-02-14 08:00:00,Toronto Raptors,94.0,Chicago Bulls,105.0
+2017-02-14 08:00:00,Cleveland Cavaliers,116.0,Minnesota Timberwolves,108.0
+2017-02-14 10:30:00,Sacramento Kings,97.0,Los Angeles Lakers,96.0
+2017-02-15 07:00:00,San Antonio Spurs,107.0,Orlando Magic,79.0
+2017-02-15 07:00:00,Indiana Pacers,104.0,Cleveland Cavaliers,113.0
+2017-02-15 07:30:00,Dallas Mavericks,91.0,Detroit Pistons,98.0
+2017-02-15 07:30:00,Charlotte Hornets,85.0,Toronto Raptors,90.0
+2017-02-15 07:30:00,Milwaukee Bucks,129.0,Brooklyn Nets,125.0
+2017-02-15 07:30:00,Philadelphia 76ers,108.0,Boston Celtics,116.0
+2017-02-15 08:00:00,Miami Heat,117.0,Houston Rockets,109.0
+2017-02-15 08:00:00,New Orleans Pelicans,95.0,Memphis Grizzlies,91.0
+2017-02-15 09:00:00,Portland Trail Blazers,88.0,Utah Jazz,111.0
+2017-02-15 09:00:00,Los Angeles Lakers,101.0,Phoenix Suns,137.0
+2017-02-15 09:00:00,Minnesota Timberwolves,112.0,Denver Nuggets,99.0
+2017-02-15 09:30:00,New York Knicks,105.0,Oklahoma City Thunder,116.0
+2017-02-15 10:30:00,Atlanta Hawks,84.0,Los Angeles Clippers,99.0
+2017-02-15 10:30:00,Sacramento Kings,86.0,Golden State Warriors,109.0
+2017-02-16 07:00:00,Washington Wizards,111.0,Indiana Pacers,98.0
+2017-02-16 08:00:00,Boston Celtics,103.0,Chicago Bulls,104.0
+2017-02-23 07:00:00,Portland Trail Blazers,112.0,Orlando Magic,103.0
+2017-02-23 07:30:00,Charlotte Hornets,108.0,Detroit Pistons,114.0
+2017-02-23 08:00:00,New York Knicks,104.0,Cleveland Cavaliers,119.0
+2017-02-23 08:00:00,Houston Rockets,129.0,New Orleans Pelicans,99.0
+2017-02-23 10:30:00,Los Angeles Clippers,113.0,Golden State Warriors,123.0
+2017-02-23 10:30:00,Denver Nuggets,100.0,Sacramento Kings,116.0
+2017-02-24 07:00:00,Washington Wizards,112.0,Philadelphia 76ers,120.0
+2017-02-24 07:00:00,Memphis Grizzlies,92.0,Indiana Pacers,102.0
+2017-02-24 08:00:00,Boston Celtics,97.0,Toronto Raptors,107.0
+2017-02-24 08:00:00,Los Angeles Lakers,93.0,Oklahoma City Thunder,110.0
+2017-02-24 08:00:00,Utah Jazz,109.0,Milwaukee Bucks,95.0
+2017-02-24 08:00:00,Dallas Mavericks,84.0,Minnesota Timberwolves,97.0
+2017-02-24 08:00:00,Phoenix Suns,121.0,Chicago Bulls,128.0
+2017-02-24 08:00:00,Miami Heat,108.0,Atlanta Hawks,90.0
+2017-02-24 09:00:00,Brooklyn Nets,109.0,Denver Nuggets,129.0
+2017-02-24 10:30:00,San Antonio Spurs,105.0,Los Angeles Clippers,97.0
+2017-02-25 05:00:00,Charlotte Hornets,99.0,Sacramento Kings,85.0
+2017-02-25 07:00:00,Atlanta Hawks,86.0,Orlando Magic,105.0
+2017-02-25 07:30:00,Philadelphia 76ers,109.0,New York Knicks,110.0
+2017-02-25 08:00:00,Indiana Pacers,95.0,Miami Heat,113.0
+2017-02-25 08:30:00,New Orleans Pelicans,83.0,Dallas Mavericks,96.0
+2017-02-25 08:30:00,Chicago Bulls,117.0,Cleveland Cavaliers,99.0
+2017-02-25 09:00:00,Minnesota Timberwolves,130.0,Houston Rockets,142.0
+2017-02-25 10:30:00,Brooklyn Nets,95.0,Golden State Warriors,112.0
+2017-02-26 03:30:00,San Antonio Spurs,119.0,Los Angeles Lakers,98.0
+2017-02-26 03:30:00,Phoenix Suns,96.0,Milwaukee Bucks,100.0
+2017-02-26 05:00:00,Utah Jazz,102.0,Washington Wizards,92.0
+2017-02-26 05:00:00,Memphis Grizzlies,105.0,Denver Nuggets,98.0
+2017-02-26 06:00:00,Boston Celtics,104.0,Detroit Pistons,98.0
+2017-02-26 06:00:00,Portland Trail Blazers,106.0,Toronto Raptors,112.0
+2017-02-26 07:00:00,New Orleans Pelicans,110.0,Oklahoma City Thunder,118.0
+2017-02-26 09:30:00,Charlotte Hornets,121.0,Los Angeles Clippers,124.0
+2017-02-27 07:00:00,Milwaukee Bucks,95.0,Cleveland Cavaliers,102.0
+2017-02-27 07:00:00,Toronto Raptors,92.0,New York Knicks,91.0
+2017-02-27 07:00:00,Golden State Warriors,119.0,Philadelphia 76ers,108.0
+2017-02-27 07:30:00,Atlanta Hawks,114.0,Boston Celtics,98.0
+2017-02-27 08:30:00,Miami Heat,89.0,Dallas Mavericks,96.0
+2017-02-27 09:30:00,Indiana Pacers,117.0,Houston Rockets,108.0
+2017-02-27 10:30:00,Minnesota Timberwolves,102.0,Sacramento Kings,88.0
+2017-02-28 07:00:00,Golden State Warriors,108.0,Washington Wizards,112.0
+2017-02-28 07:30:00,Portland Trail Blazers,113.0,Detroit Pistons,120.0
+2017-02-28 08:00:00,Phoenix Suns,112.0,Memphis Grizzlies,130.0
+2017-02-28 08:00:00,Utah Jazz,106.0,Oklahoma City Thunder,109.0
+2017-02-28 08:00:00,Denver Nuggets,125.0,Chicago Bulls,107.0
+2017-02-28 10:30:00,Charlotte Hornets,109.0,Los Angeles Lakers,104.0
+2017-03-01 07:00:00,New York Knicks,101.0,Orlando Magic,90.0
+2017-03-01 07:30:00,Dallas Mavericks,95.0,Atlanta Hawks,100.0
+2017-03-01 07:30:00,Washington Wizards,105.0,Toronto Raptors,96.0
+2017-03-01 07:30:00,Philadelphia 76ers,98.0,Miami Heat,125.0
+2017-03-01 08:00:00,Detroit Pistons,86.0,New Orleans Pelicans,109.0
+2017-03-01 08:00:00,Denver Nuggets,110.0,Milwaukee Bucks,98.0
+2017-03-01 08:00:00,Cleveland Cavaliers,99.0,Boston Celtics,103.0
+2017-03-01 08:30:00,Indiana Pacers,99.0,San Antonio Spurs,100.0
+2017-03-01 09:00:00,Minnesota Timberwolves,107.0,Utah Jazz,80.0
+2017-03-01 10:30:00,Houston Rockets,122.0,Los Angeles Clippers,103.0
+2017-03-01 10:30:00,Brooklyn Nets,109.0,Sacramento Kings,100.0
+2017-03-02 08:00:00,Golden State Warriors,87.0,Chicago Bulls,94.0
+2017-03-02 09:00:00,Charlotte Hornets,103.0,Phoenix Suns,120.0
+2017-03-02 10:30:00,Oklahoma City Thunder,109.0,Portland Trail Blazers,114.0
+2017-03-03 07:00:00,New York Knicks,102.0,Philadelphia 76ers,105.0
+2017-03-03 07:00:00,Miami Heat,99.0,Orlando Magic,110.0
+2017-03-03 07:00:00,Cleveland Cavaliers,135.0,Atlanta Hawks,130.0
+2017-03-03 07:00:00,Toronto Raptors,114.0,Washington Wizards,106.0
+2017-03-03 08:00:00,Los Angeles Clippers,101.0,Milwaukee Bucks,112.0
+2017-03-03 08:30:00,Memphis Grizzlies,100.0,Dallas Mavericks,104.0
+2017-03-03 09:00:00,Brooklyn Nets,97.0,Utah Jazz,112.0
+2017-03-03 09:00:00,Oklahoma City Thunder,111.0,Phoenix Suns,118.0
+2017-03-03 09:30:00,San Antonio Spurs,101.0,New Orleans Pelicans,98.0
+2017-03-03 10:30:00,Boston Celtics,115.0,Los Angeles Lakers,95.0
+2017-03-04 06:00:00,Detroit Pistons,136.0,Philadelphia 76ers,106.0
+2017-03-04 08:00:00,Cleveland Cavaliers,92.0,Miami Heat,120.0
+2017-03-04 08:00:00,Toronto Raptors,94.0,Milwaukee Bucks,101.0
+2017-03-04 08:30:00,Los Angeles Clippers,101.0,Chicago Bulls,91.0
+2017-03-04 09:00:00,Charlotte Hornets,112.0,Denver Nuggets,102.0
+2017-03-04 09:00:00,Minnesota Timberwolves,90.0,San Antonio Spurs,97.0
+2017-03-04 09:00:00,Memphis Grizzlies,108.0,Houston Rockets,123.0
+2017-03-04 10:00:00,Brooklyn Nets,116.0,Portland Trail Blazers,130.0
+2017-03-05 01:00:00,Indiana Pacers,97.0,Atlanta Hawks,96.0
+2017-03-05 03:30:00,Golden State Warriors,112.0,New York Knicks,105.0
+2017-03-05 05:00:00,Boston Celtics,106.0,Phoenix Suns,109.0
+2017-03-05 05:00:00,Orlando Magic,114.0,Washington Wizards,115.0
+2017-03-05 06:00:00,Utah Jazz,110.0,Sacramento Kings,109.0
+2017-03-05 08:30:00,Oklahoma City Thunder,89.0,Dallas Mavericks,104.0
+2017-03-05 09:30:00,New Orleans Pelicans,105.0,Los Angeles Lakers,97.0
+2017-03-06 07:00:00,New York Knicks,113.0,Orlando Magic,105.0
+2017-03-06 07:00:00,Miami Heat,106.0,Cleveland Cavaliers,98.0
+2017-03-06 07:00:00,Milwaukee Bucks,112.0,Philadelphia 76ers,98.0
+2017-03-06 07:30:00,Chicago Bulls,95.0,Detroit Pistons,109.0
+2017-03-06 07:30:00,Golden State Warriors,119.0,Atlanta Hawks,111.0
+2017-03-06 08:00:00,Brooklyn Nets,122.0,Memphis Grizzlies,109.0
+2017-03-06 08:00:00,Indiana Pacers,88.0,Charlotte Hornets,100.0
+2017-03-06 08:30:00,Houston Rockets,110.0,San Antonio Spurs,112.0
+2017-03-06 09:00:00,Sacramento Kings,96.0,Denver Nuggets,108.0
+2017-03-06 09:00:00,New Orleans Pelicans,83.0,Utah Jazz,88.0
+2017-03-06 10:30:00,Boston Celtics,102.0,Los Angeles Clippers,116.0
+2017-03-07 08:00:00,Portland Trail Blazers,126.0,Oklahoma City Thunder,121.0
+2017-03-07 08:30:00,Los Angeles Lakers,111.0,Dallas Mavericks,122.0
+2017-03-07 09:00:00,Washington Wizards,131.0,Phoenix Suns,127.0
+2017-03-08 07:00:00,Chicago Bulls,91.0,Orlando Magic,98.0
+2017-03-08 07:30:00,Charlotte Hornets,101.0,Miami Heat,108.0
+2017-03-08 07:30:00,Brooklyn Nets,105.0,Atlanta Hawks,110.0
+2017-03-08 08:00:00,Utah Jazz,115.0,Houston Rockets,108.0
+2017-03-08 08:00:00,Detroit Pistons,98.0,Indiana Pacers,115.0
+2017-03-08 08:00:00,New York Knicks,93.0,Milwaukee Bucks,104.0
+2017-03-08 08:00:00,Los Angeles Clippers,91.0,Minnesota Timberwolves,107.0
+2017-03-08 08:00:00,Toronto Raptors,94.0,New Orleans Pelicans,87.0
+2017-03-08 08:30:00,Sacramento Kings,104.0,San Antonio Spurs,114.0
+2017-03-08 09:00:00,Washington Wizards,123.0,Denver Nuggets,113.0
+2017-03-08 10:30:00,Boston Celtics,99.0,Golden State Warriors,86.0
+2017-03-09 07:30:00,Cleveland Cavaliers,101.0,Detroit Pistons,106.0
+2017-03-09 08:00:00,San Antonio Spurs,92.0,Oklahoma City Thunder,102.0
+2017-03-09 08:00:00,Los Angeles Clippers,114.0,Memphis Grizzlies,98.0
+2017-03-09 10:00:00,Philadelphia 76ers,108.0,Portland Trail Blazers,114.0
+2017-03-09 10:30:00,Los Angeles Lakers,122.0,Phoenix Suns,110.0
+2017-03-10 07:00:00,Orlando Magic,81.0,Charlotte Hornets,121.0
+2017-03-10 08:00:00,Toronto Raptors,99.0,Atlanta Hawks,105.0
+2017-03-10 08:00:00,Houston Rockets,115.0,Chicago Bulls,94.0
+2017-03-10 08:00:00,Indiana Pacers,85.0,Milwaukee Bucks,99.0
+2017-03-10 08:00:00,Golden State Warriors,102.0,Minnesota Timberwolves,103.0
+2017-03-10 09:00:00,Brooklyn Nets,96.0,Dallas Mavericks,105.0
+2017-03-10 09:00:00,Boston Celtics,99.0,Denver Nuggets,119.0
+2017-03-10 10:30:00,Washington Wizards,130.0,Sacramento Kings,122.0
+2017-03-11 03:00:00,Utah Jazz,104.0,Oklahoma City Thunder,112.0
+2017-03-11 03:30:00,Philadelphia 76ers,100.0,Los Angeles Clippers,112.0
+2017-03-11 05:00:00,New York Knicks,92.0,Detroit Pistons,112.0
+2017-03-11 07:00:00,New Orleans Pelicans,125.0,Charlotte Hornets,122.0
+2017-03-11 07:00:00,Cleveland Cavaliers,116.0,Orlando Magic,104.0
+2017-03-11 08:00:00,Toronto Raptors,89.0,Miami Heat,104.0
+2017-03-11 08:00:00,Minnesota Timberwolves,95.0,Milwaukee Bucks,102.0
+2017-03-11 08:30:00,Golden State Warriors,85.0,San Antonio Spurs,107.0
+2017-03-11 09:00:00,Atlanta Hawks,107.0,Memphis Grizzlies,90.0
+2017-03-11 09:00:00,Phoenix Suns,100.0,Dallas Mavericks,98.0
+2017-03-11 10:00:00,Washington Wizards,125.0,Portland Trail Blazers,124.0
+2017-03-11 10:30:00,Denver Nuggets,105.0,Sacramento Kings,92.0
+2017-03-12 03:30:00,Chicago Bulls,80.0,Boston Celtics,100.0
+2017-03-12 06:00:00,New York Knicks,112.0,Brooklyn Nets,120.0
+2017-03-12 06:00:00,Miami Heat,98.0,Indiana Pacers,102.0
+2017-03-12 09:00:00,Cleveland Cavaliers,112.0,Houston Rockets,117.0
+2017-03-12 09:00:00,Portland Trail Blazers,110.0,Phoenix Suns,101.0
+2017-03-12 09:30:00,Philadelphia 76ers,118.0,Los Angeles Lakers,116.0
+2017-03-13 07:00:00,Chicago Bulls,115.0,Charlotte Hornets,109.0
+2017-03-13 07:30:00,Dallas Mavericks,78.0,Toronto Raptors,100.0
+2017-03-13 08:00:00,Milwaukee Bucks,93.0,Memphis Grizzlies,113.0
+2017-03-13 08:00:00,Washington Wizards,104.0,Minnesota Timberwolves,119.0
+2017-03-13 08:00:00,Atlanta Hawks,99.0,San Antonio Spurs,107.0
+2017-03-13 09:00:00,Los Angeles Clippers,108.0,Utah Jazz,114.0
+2017-03-13 10:30:00,Orlando Magic,115.0,Sacramento Kings,120.0
+2017-03-13 10:30:00,Los Angeles Lakers,101.0,Denver Nuggets,129.0
+2017-03-14 07:00:00,Detroit Pistons,96.0,Cleveland Cavaliers,128.0
+2017-03-14 07:30:00,Oklahoma City Thunder,122.0,Brooklyn Nets,104.0
+2017-03-14 07:30:00,Indiana Pacers,81.0,New York Knicks,87.0
+2017-03-14 08:00:00,Portland Trail Blazers,77.0,New Orleans Pelicans,100.0
+2017-03-14 10:30:00,Philadelphia 76ers,104.0,Golden State Warriors,106.0
+2017-03-15 07:00:00,Charlotte Hornets,77.0,Indiana Pacers,98.0
+2017-03-15 07:00:00,Dallas Mavericks,112.0,Washington Wizards,107.0
+2017-03-15 07:30:00,Minnesota Timberwolves,104.0,Boston Celtics,117.0
+2017-03-15 07:30:00,Utah Jazz,97.0,Detroit Pistons,83.0
+2017-03-15 07:30:00,New Orleans Pelicans,112.0,Miami Heat,120.0
+2017-03-15 08:00:00,Memphis Grizzlies,98.0,Chicago Bulls,91.0
+2017-03-15 08:00:00,Los Angeles Lakers,100.0,Houston Rockets,139.0
+2017-03-15 08:00:00,Portland Trail Blazers,110.0,San Antonio Spurs,106.0
+2017-03-15 10:00:00,Sacramento Kings,107.0,Phoenix Suns,101.0
+2017-03-15 10:30:00,Milwaukee Bucks,97.0,Los Angeles Clippers,96.0
+2017-03-16 07:00:00,Utah Jazz,83.0,Cleveland Cavaliers,91.0
+2017-03-16 07:00:00,Oklahoma City Thunder,123.0,Toronto Raptors,102.0
+2017-03-16 07:30:00,Memphis Grizzlies,103.0,Atlanta Hawks,91.0
+2017-03-16 07:30:00,Brooklyn Nets,121.0,New York Knicks,110.0
+2017-03-16 09:00:00,Los Angeles Clippers,114.0,Denver Nuggets,129.0
+2017-03-16 10:30:00,Orlando Magic,92.0,Golden State Warriors,122.0
+2017-03-17 07:00:00,Dallas Mavericks,74.0,Philadelphia 76ers,116.0
+2017-03-17 07:00:00,Chicago Bulls,107.0,Washington Wizards,112.0
+2017-03-17 07:30:00,Boston Celtics,98.0,Brooklyn Nets,95.0
+2017-03-17 07:30:00,Toronto Raptors,87.0,Detroit Pistons,75.0
+2017-03-17 08:00:00,Minnesota Timberwolves,105.0,Miami Heat,123.0
+2017-03-17 08:00:00,Houston Rockets,112.0,New Orleans Pelicans,128.0
+2017-03-17 10:00:00,Orlando Magic,109.0,Phoenix Suns,103.0
+2017-03-17 10:30:00,Milwaukee Bucks,107.0,Los Angeles Lakers,103.0
+2017-03-18 03:00:00,Sacramento Kings,94.0,Oklahoma City Thunder,110.0
+2017-03-18 06:00:00,Portland Trail Blazers,113.0,Atlanta Hawks,97.0
+2017-03-18 07:00:00,Washington Wizards,93.0,Charlotte Hornets,98.0
+2017-03-18 08:30:00,Cleveland Cavaliers,78.0,Los Angeles Clippers,108.0
+2017-03-18 09:00:00,Utah Jazz,86.0,Chicago Bulls,95.0
+2017-03-18 09:00:00,San Antonio Spurs,96.0,Memphis Grizzlies,104.0
+2017-03-18 09:30:00,Houston Rockets,109.0,Denver Nuggets,105.0
+2017-03-18 10:30:00,Milwaukee Bucks,92.0,Golden State Warriors,117.0
+2017-03-19 00:00:00,Dallas Mavericks,111.0,Brooklyn Nets,104.0
+2017-03-19 01:00:00,Boston Celtics,99.0,Philadelphia 76ers,105.0
+2017-03-19 04:30:00,Phoenix Suns,95.0,Detroit Pistons,112.0
+2017-03-19 06:00:00,Portland Trail Blazers,115.0,Miami Heat,104.0
+2017-03-19 06:00:00,Minnesota Timberwolves,109.0,New Orleans Pelicans,123.0
+2017-03-19 06:00:00,Indiana Pacers,91.0,Toronto Raptors,116.0
+2017-03-19 07:00:00,Sacramento Kings,102.0,San Antonio Spurs,118.0
+2017-03-19 09:30:00,Cleveland Cavaliers,125.0,Los Angeles Lakers,120.0
+2017-03-20 07:00:00,Atlanta Hawks,90.0,Charlotte Hornets,105.0
+2017-03-20 07:00:00,Utah Jazz,100.0,Indiana Pacers,107.0
+2017-03-20 07:00:00,Philadelphia 76ers,109.0,Orlando Magic,112.0
+2017-03-20 07:30:00,Washington Wizards,102.0,Boston Celtics,110.0
+2017-03-20 08:00:00,Denver Nuggets,124.0,Houston Rockets,125.0
+2017-03-20 08:00:00,Golden State Warriors,111.0,Oklahoma City Thunder,95.0
+2017-03-20 10:30:00,New York Knicks,105.0,Los Angeles Clippers,114.0
+2017-03-21 07:00:00,Chicago Bulls,120.0,Toronto Raptors,122.0
+2017-03-21 07:30:00,Phoenix Suns,97.0,Miami Heat,112.0
+2017-03-21 07:30:00,Detroit Pistons,96.0,Brooklyn Nets,98.0
+2017-03-21 08:00:00,Memphis Grizzlies,82.0,New Orleans Pelicans,95.0
+2017-03-21 08:30:00,Golden State Warriors,112.0,Dallas Mavericks,87.0
+2017-03-21 09:30:00,San Antonio Spurs,100.0,Minnesota Timberwolves,93.0
+2017-03-21 10:00:00,Milwaukee Bucks,93.0,Portland Trail Blazers,90.0
+2017-03-21 10:30:00,Los Angeles Clippers,133.0,Los Angeles Lakers,109.0
+2017-03-22 07:00:00,Charlotte Hornets,109.0,Orlando Magic,102.0
+2017-03-22 07:30:00,Indiana Pacers,100.0,Boston Celtics,109.0
+2017-03-22 08:00:00,Atlanta Hawks,100.0,Washington Wizards,104.0
+2017-03-22 08:00:00,Philadelphia 76ers,97.0,Oklahoma City Thunder,122.0
+2017-03-22 08:00:00,Detroit Pistons,95.0,Chicago Bulls,117.0
+2017-03-22 09:00:00,Cleveland Cavaliers,113.0,Denver Nuggets,126.0
+2017-03-22 10:30:00,Milwaukee Bucks,116.0,Sacramento Kings,98.0
+2017-03-22 10:30:00,New York Knicks,101.0,Utah Jazz,108.0
+2017-03-23 07:30:00,Phoenix Suns,,Brooklyn Nets,
+2017-03-23 07:30:00,Toronto Raptors,,Miami Heat,
+2017-03-23 08:30:00,Los Angeles Clippers,,Dallas Mavericks,
+2017-03-23 08:30:00,Memphis Grizzlies,,San Antonio Spurs,
+2017-03-23 10:00:00,New York Knicks,,Portland Trail Blazers,
+2017-03-24 07:00:00,Detroit Pistons,,Orlando Magic,
+2017-03-24 07:00:00,Brooklyn Nets,,Washington Wizards,
+2017-03-24 07:00:00,Denver Nuggets,,Indiana Pacers,
+2017-03-24 07:00:00,Cleveland Cavaliers,,Charlotte Hornets,
+2017-03-24 07:30:00,Phoenix Suns,,Boston Celtics,
+2017-03-24 08:00:00,New Orleans Pelicans,,Houston Rockets,
+2017-03-24 08:00:00,Philadelphia 76ers,,Chicago Bulls,
+2017-03-24 08:00:00,Atlanta Hawks,,Milwaukee Bucks,
+2017-03-24 10:30:00,Sacramento Kings,,Golden State Warriors,
+2017-03-24 10:30:00,Minnesota Timberwolves,,Los Angeles Lakers,
+2017-03-25 03:30:00,Utah Jazz,,Los Angeles Clippers,
+2017-03-25 07:30:00,Washington Wizards,,Cleveland Cavaliers,
+2017-03-25 08:30:00,Toronto Raptors,,Dallas Mavericks,
+2017-03-25 08:30:00,New York Knicks,,San Antonio Spurs,
+2017-03-25 10:00:00,Minnesota Timberwolves,,Portland Trail Blazers,
+2017-03-26 01:00:00,Brooklyn Nets,,Atlanta Hawks,
+2017-03-26 01:00:00,Phoenix Suns,,Charlotte Hornets,
+2017-03-26 03:30:00,Chicago Bulls,,Milwaukee Bucks,
+2017-03-26 03:30:00,Oklahoma City Thunder,,Houston Rockets,
+2017-03-26 03:30:00,Sacramento Kings,,Los Angeles Clippers,
+2017-03-26 06:00:00,Philadelphia 76ers,,Indiana Pacers,
+2017-03-26 06:00:00,Miami Heat,,Boston Celtics,
+2017-03-26 08:00:00,New Orleans Pelicans,,Denver Nuggets,
+2017-03-26 08:00:00,Memphis Grizzlies,,Golden State Warriors,
+2017-03-26 09:30:00,Portland Trail Blazers,,Los Angeles Lakers,
+2017-03-27 07:30:00,Detroit Pistons,,New York Knicks,
+2017-03-27 07:30:00,Orlando Magic,,Toronto Raptors,
+2017-03-27 08:00:00,Cleveland Cavaliers,,San Antonio Spurs,
+2017-03-27 08:30:00,Oklahoma City Thunder,,Dallas Mavericks,
+2017-03-27 10:30:00,Memphis Grizzlies,,Sacramento Kings,
+2017-03-27 10:30:00,New Orleans Pelicans,,Utah Jazz,
+2017-03-28 07:00:00,Minnesota Timberwolves,,Indiana Pacers,
+2017-03-28 07:00:00,Milwaukee Bucks,,Charlotte Hornets,
+2017-03-28 07:30:00,Miami Heat,,Detroit Pistons,
+2017-03-28 07:30:00,Phoenix Suns,,Atlanta Hawks,
+2017-03-28 07:30:00,Philadelphia 76ers,,Brooklyn Nets,
+2017-03-28 08:00:00,Golden State Warriors,,Houston Rockets,
+2017-03-28 10:00:00,Denver Nuggets,,Portland Trail Blazers,
+2017-03-28 10:30:00,Washington Wizards,,Los Angeles Lakers,
+2017-03-29 07:00:00,Oklahoma City Thunder,,Orlando Magic,
+2017-03-29 07:00:00,Atlanta Hawks,,Philadelphia 76ers,
+2017-03-29 07:30:00,Charlotte Hornets,,Toronto Raptors,
+2017-03-29 07:30:00,Miami Heat,,New York Knicks,
+2017-03-29 07:30:00,Milwaukee Bucks,,Boston Celtics,
+2017-03-29 08:00:00,Indiana Pacers,,Memphis Grizzlies,
+2017-03-29 08:00:00,Dallas Mavericks,,New Orleans Pelicans,
+2017-03-29 09:30:00,Golden State Warriors,,San Antonio Spurs,
+2017-03-29 10:30:00,Washington Wizards,,Los Angeles Clippers,
+2017-03-29 10:30:00,Utah Jazz,,Sacramento Kings,
+2017-03-30 07:30:00,Brooklyn Nets,,Detroit Pistons,
+2017-03-30 08:00:00,Cleveland Cavaliers,,Chicago Bulls,
+2017-03-30 08:00:00,Los Angeles Lakers,,Minnesota Timberwolves,
+2017-03-30 10:00:00,Los Angeles Clippers,,Phoenix Suns,
+2017-03-30 10:30:00,Houston Rockets,,Portland Trail Blazers,
+2017-03-31 07:00:00,Indiana Pacers,,Toronto Raptors,
+2017-03-31 07:00:00,Denver Nuggets,,Charlotte Hornets,
+2017-03-31 07:30:00,Orlando Magic,,Boston Celtics,
+2017-03-31 07:30:00,Philadelphia 76ers,,Cleveland Cavaliers,
+2017-03-31 08:00:00,San Antonio Spurs,,Oklahoma City Thunder,
+2017-03-31 08:00:00,Sacramento Kings,,New Orleans Pelicans,
+2017-03-31 08:00:00,New York Knicks,,Miami Heat,
+2017-03-31 08:00:00,Dallas Mavericks,,Memphis Grizzlies,
+2017-03-31 08:00:00,Detroit Pistons,,Milwaukee Bucks,
+2017-03-31 09:00:00,Washington Wizards,,Utah Jazz,
+2017-03-31 10:30:00,Houston Rockets,,Golden State Warriors,
+2017-04-01 03:30:00,Los Angeles Lakers,,Los Angeles Clippers,
+2017-04-01 05:00:00,Atlanta Hawks,,Chicago Bulls,
+2017-04-01 06:00:00,Orlando Magic,,Brooklyn Nets,
+2017-04-01 08:00:00,Sacramento Kings,,Minnesota Timberwolves,
+2017-04-01 10:00:00,Phoenix Suns,,Portland Trail Blazers,
+2017-04-02 01:00:00,Boston Celtics,,New York Knicks,
+2017-04-02 03:00:00,Charlotte Hornets,,Oklahoma City Thunder,
+2017-04-02 03:30:00,Utah Jazz,,San Antonio Spurs,
+2017-04-02 03:30:00,Memphis Grizzlies,,Los Angeles Lakers,
+2017-04-02 03:30:00,Dallas Mavericks,,Milwaukee Bucks,
+2017-04-02 06:00:00,Chicago Bulls,,New Orleans Pelicans,
+2017-04-02 06:00:00,Philadelphia 76ers,,Toronto Raptors,
+2017-04-02 06:00:00,Denver Nuggets,,Miami Heat,
+2017-04-02 06:00:00,Indiana Pacers,,Cleveland Cavaliers,
+2017-04-02 06:00:00,Atlanta Hawks,,Brooklyn Nets,
+2017-04-02 08:00:00,Washington Wizards,,Golden State Warriors,
+2017-04-02 09:00:00,Houston Rockets,,Phoenix Suns,
+2017-04-03 07:00:00,Portland Trail Blazers,,Minnesota Timberwolves,
+2017-04-04 07:00:00,Orlando Magic,,Cleveland Cavaliers,
+2017-04-04 07:00:00,Toronto Raptors,,Indiana Pacers,
+2017-04-04 07:00:00,Brooklyn Nets,,Philadelphia 76ers,
+2017-04-04 07:00:00,Charlotte Hornets,,Washington Wizards,
+2017-04-04 08:00:00,Denver Nuggets,,New Orleans Pelicans,
+2017-04-04 08:00:00,Chicago Bulls,,New York Knicks,
+2017-04-04 08:00:00,Milwaukee Bucks,,Oklahoma City Thunder,
+2017-04-04 08:30:00,Memphis Grizzlies,,San Antonio Spurs,
+2017-04-04 10:30:00,Minnesota Timberwolves,,Golden State Warriors,
+2017-04-04 10:30:00,Dallas Mavericks,,Sacramento Kings,
+2017-04-04 10:30:00,Portland Trail Blazers,,Utah Jazz,
+2017-04-05 07:00:00,Miami Heat,,Charlotte Hornets,
+2017-04-05 07:30:00,Toronto Raptors,,Detroit Pistons,
+2017-04-05 08:00:00,Oklahoma City Thunder,,Memphis Grizzlies,
+2017-04-05 08:00:00,Denver Nuggets,,Houston Rockets,
+2017-04-05 08:00:00,Cleveland Cavaliers,,Boston Celtics,
+2017-04-05 08:30:00,Los Angeles Lakers,,San Antonio Spurs,
+2017-04-05 10:00:00,Golden State Warriors,,Phoenix Suns,
+2017-04-05 10:30:00,Dallas Mavericks,,Los Angeles Clippers,
+2017-04-06 07:00:00,Milwaukee Bucks,,Indiana Pacers,
+2017-04-06 07:00:00,Brooklyn Nets,,Orlando Magic,
+2017-04-06 07:00:00,Chicago Bulls,,Philadelphia 76ers,
+2017-04-06 07:30:00,Washington Wizards,,New York Knicks,
+2017-04-06 08:00:00,Boston Celtics,,Atlanta Hawks,
+2017-04-06 10:30:00,Minnesota Timberwolves,,Portland Trail Blazers,
+2017-04-07 07:30:00,Miami Heat,,Toronto Raptors,
+2017-04-07 07:30:00,Atlanta Hawks,,Cleveland Cavaliers,
+2017-04-07 08:00:00,Detroit Pistons,,Houston Rockets,
+2017-04-07 08:00:00,New York Knicks,,Memphis Grizzlies,
+2017-04-07 08:30:00,San Antonio Spurs,,Dallas Mavericks,
+2017-04-07 09:00:00,New Orleans Pelicans,,Denver Nuggets,
+2017-04-07 09:00:00,Minnesota Timberwolves,,Utah Jazz,
+2017-04-07 10:00:00,Oklahoma City Thunder,,Phoenix Suns,
+2017-04-07 10:30:00,Sacramento Kings,,Los Angeles Lakers,
+2017-04-08 05:00:00,Chicago Bulls,,Brooklyn Nets,
+2017-04-08 06:00:00,Indiana Pacers,,Orlando Magic,
+2017-04-08 06:00:00,Boston Celtics,,Charlotte Hornets,
+2017-04-08 07:00:00,Milwaukee Bucks,,Philadelphia 76ers,
+2017-04-08 07:00:00,Miami Heat,,Washington Wizards,
+2017-04-08 08:30:00,Los Angeles Clippers,,San Antonio Spurs,
+2017-04-08 10:00:00,Utah Jazz,,Portland Trail Blazers,
+2017-04-08 10:30:00,New Orleans Pelicans,,Golden State Warriors,
+2017-04-09 00:00:00,Toronto Raptors,,New York Knicks,
+2017-04-09 03:30:00,Cleveland Cavaliers,,Atlanta Hawks,
+2017-04-09 05:00:00,Oklahoma City Thunder,,Denver Nuggets,
+2017-04-09 06:00:00,Detroit Pistons,,Memphis Grizzlies,
+2017-04-09 06:00:00,Dallas Mavericks,,Phoenix Suns,
+2017-04-09 06:00:00,Houston Rockets,,Sacramento Kings,
+2017-04-09 09:30:00,Minnesota Timberwolves,,Los Angeles Lakers,
+2017-04-10 07:00:00,Indiana Pacers,,Philadelphia 76ers,
+2017-04-10 07:30:00,Cleveland Cavaliers,,Miami Heat,
+2017-04-10 07:30:00,Brooklyn Nets,,Boston Celtics,
+2017-04-10 08:00:00,Washington Wizards,,Detroit Pistons,
+2017-04-10 08:00:00,Orlando Magic,,Chicago Bulls,
+2017-04-10 08:00:00,Charlotte Hornets,,Milwaukee Bucks,
+2017-04-10 10:00:00,San Antonio Spurs,,Portland Trail Blazers,
+2017-04-10 10:30:00,Utah Jazz,,Golden State Warriors,
+2017-04-10 10:30:00,Houston Rockets,,Los Angeles Clippers,
+2017-04-11 07:30:00,Charlotte Hornets,,Atlanta Hawks,
+2017-04-11 08:00:00,Oklahoma City Thunder,,Minnesota Timberwolves,
+2017-04-11 08:30:00,Denver Nuggets,,Dallas Mavericks,
+2017-04-11 10:30:00,New Orleans Pelicans,,Los Angeles Lakers,
+2017-04-11 10:30:00,Phoenix Suns,,Sacramento Kings,
+2017-04-12 08:00:00,Washington Wizards,,Miami Heat,
+2017-04-12 08:00:00,Milwaukee Bucks,,Boston Celtics,
+2017-04-12 08:00:00,Brooklyn Nets,,Chicago Bulls,
+2017-04-12 08:00:00,Toronto Raptors,,Cleveland Cavaliers,
+2017-04-12 08:00:00,Detroit Pistons,,Orlando Magic,
+2017-04-12 08:00:00,Minnesota Timberwolves,,Houston Rockets,
+2017-04-12 08:00:00,Atlanta Hawks,,Indiana Pacers,
+2017-04-12 08:00:00,Denver Nuggets,,Oklahoma City Thunder,
+2017-04-12 08:00:00,Dallas Mavericks,,Memphis Grizzlies,
+2017-04-12 08:00:00,Philadelphia 76ers,,New York Knicks,
+2017-04-12 10:30:00,New Orleans Pelicans,,Portland Trail Blazers,
+2017-04-12 10:30:00,Los Angeles Lakers,,Golden State Warriors,
+2017-04-12 10:30:00,Sacramento Kings,,Los Angeles Clippers,
+2017-04-12 10:30:00,San Antonio Spurs,,Utah Jazz,
