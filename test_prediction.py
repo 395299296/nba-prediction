@@ -117,14 +117,8 @@ def predict_winner(team_1, team_2, model, team_stats):
     features = np.nan_to_num(features)
     return model.predict_proba([features])
 
-def train_model(team_stats_old, team_stats_new, result_data, test_data, weight):
-    # 将上个赛季跟本赛季的数据加权求和取均值
-    team_stats = team_stats_old.copy()
-    for index, row1 in team_stats_old.iterrows():
-        row2 = team_stats_new.loc[index]
-        row1 = row1 + row2 * weight
-        team_stats.ix[index] = row1
-
+def train_model(team_stats, result_data, test_data):
+    # 建立数据模型
     X, y = build_dataSet(team_stats, result_data)
 
     # 训练网络模型
@@ -149,13 +143,13 @@ def train_model(team_stats_old, team_stats_new, result_data, test_data, weight):
 
     return result
 
-def vefify_result(test_data, predict_result):
+def vefify_result(test_data, predict_result, rate):
     success = 0
     index = 0
     for x, row in test_data.iterrows():
-        if row['VPTS'] > row['HPTS'] and predict_result[index] >= 0.5:
+        if row['VPTS'] > row['HPTS'] and predict_result[index] >= rate:
             success += 1
-        if row['VPTS'] < row['HPTS'] and predict_result[index] < 0.5:
+        if row['VPTS'] < row['HPTS'] and predict_result[index] < rate:
             success += 1
         index += 1
 
@@ -163,48 +157,43 @@ def vefify_result(test_data, predict_result):
 
 if __name__ == '__main__':
 
-    # 读取上个赛季的数据
-    Mstat = pd.read_csv(folder + '/15-16Miscellaneous_Stat.csv')
-    Ostat = pd.read_csv(folder + '/15-16Opponent_Per_Game_Stat.csv')
-    Tstat = pd.read_csv(folder + '/15-16Team_Per_Game_Stat.csv')
-
-    team_stats_old = initialize_data(Mstat, Ostat, Tstat)
-
-    # 读取新赛季的数据
+     # 读取本赛季的数据
     Mstat = pd.read_csv(folder + '/16-17Miscellaneous_Stat.csv')
     Ostat = pd.read_csv(folder + '/16-17Opponent_Per_Game_Stat.csv')
     Tstat = pd.read_csv(folder + '/16-17Team_Per_Game_Stat.csv')
 
-    team_stats_new = initialize_data(Mstat, Ostat, Tstat)
+    team_stats = initialize_data(Mstat, Ostat, Tstat)
 
-    # 读取上个赛季的结果数据
-    result_old = pd.read_csv(folder + '/15-16Schedule_Result.csv')
-    # 读取新赛季的赛程数据
-    result_new = pd.read_csv(folder + '/16-17Schedule_Result.csv')
+    # 读取本赛季的赛程数据
+    schedule_result = pd.read_csv(folder + '/16-17Schedule_Result.csv')
 
-    # 将本赛季已产生的结果跟上赛季的结果融合
+    # 检查赛程进度
     result_count = 0
-    for index, row in result_new.iterrows():
+    for index, row in schedule_result.iterrows():
         if math.isnan(row['VPTS']):
             break
         result_count += 1
 
-    # 将最近200场数据作为验证集，之前的作为测试集，今后的作为预测集
-    result_data = pd.concat([result_old, result_new.loc[0:result_count-200-1]])
-    test_data = result_new.loc[result_count-200:result_count-1]
-    predict_data = result_new.loc[result_count:]
+    # 训练集
+    result_data = schedule_result.loc[0:result_count-101]
+    # 测试集
+    test_data = schedule_result.loc[result_count-101:result_count-1]
 
-    max_success_rate = 0
-    max_success_weight = 0
+    max_success_result = []
     for i in range(0,10):
         X = []
         y = []
-        weight = i * 0.1
-        print('Training model with weight %f...' % (weight))
-        predict_result = train_model(team_stats_old, team_stats_new, result_data, test_data, weight)
-        success_rate = vefify_result(test_data, predict_result)
-        if success_rate > max_success_rate:
-            max_success_rate = success_rate
-            max_success_weight = weight
+        print('Training model times %f...' % i)
+        predict_result = train_model(team_stats, result_data, test_data)
+        max_success_index = 0
+        max_success_rate = 0
+        for j in range(0,100):
+            rate = 0.01 * j
+            success_rate = vefify_result(test_data, predict_result, rate)
+            if success_rate > max_success_rate:
+                max_success_index = j
+                max_success_rate = success_rate
+        print(max_success_index, max_success_rate)
+        max_success_result.append(max_success_index)
 
-    print(max_success_rate, max_success_weight)
+    print(sum(max_success_result)/10)
