@@ -1,0 +1,337 @@
+Date,Time,Vteam,VPTS,Hteam,HPTS
+Wed Mar 1 2017,7:30 PM,Dallas Mavericks,95,Atlanta Hawks,100
+Wed Mar 1 2017,8:00 PM,Cleveland Cavaliers,99,Boston Celtics,103
+Wed Mar 1 2017,10:30 PM,Houston Rockets,122,Los Angeles Clippers,103
+Wed Mar 1 2017,7:30 PM,Philadelphia 76ers,98,Miami Heat,125
+Wed Mar 1 2017,8:00 PM,Denver Nuggets,110,Milwaukee Bucks,98
+Wed Mar 1 2017,8:00 PM,Detroit Pistons,86,New Orleans Pelicans,109
+Wed Mar 1 2017,7:00 PM,New York Knicks,101,Orlando Magic,90
+Wed Mar 1 2017,10:30 PM,Brooklyn Nets,109,Sacramento Kings,100
+Wed Mar 1 2017,8:30 PM,Indiana Pacers,99,San Antonio Spurs,100
+Wed Mar 1 2017,7:30 PM,Washington Wizards,105,Toronto Raptors,96
+Wed Mar 1 2017,9:00 PM,Minnesota Timberwolves,107,Utah Jazz,80
+Thu Mar 2 2017,8:00 PM,Golden State Warriors,87,Chicago Bulls,94
+Thu Mar 2 2017,9:00 PM,Charlotte Hornets,103,Phoenix Suns,120
+Thu Mar 2 2017,10:30 PM,Oklahoma City Thunder,109,Portland Trail Blazers,114
+Fri Mar 3 2017,7:00 PM,Cleveland Cavaliers,135,Atlanta Hawks,130
+Fri Mar 3 2017,8:30 PM,Memphis Grizzlies,100,Dallas Mavericks,104
+Fri Mar 3 2017,10:30 PM,Boston Celtics,115,Los Angeles Lakers,95
+Fri Mar 3 2017,8:00 PM,Los Angeles Clippers,101,Milwaukee Bucks,112
+Fri Mar 3 2017,9:30 PM,San Antonio Spurs,101,New Orleans Pelicans,98
+Fri Mar 3 2017,7:00 PM,Miami Heat,99,Orlando Magic,110
+Fri Mar 3 2017,7:00 PM,New York Knicks,102,Philadelphia 76ers,105
+Fri Mar 3 2017,9:00 PM,Oklahoma City Thunder,111,Phoenix Suns,118
+Fri Mar 3 2017,9:00 PM,Brooklyn Nets,97,Utah Jazz,112
+Fri Mar 3 2017,7:00 PM,Toronto Raptors,114,Washington Wizards,106
+Sat Mar 4 2017,8:30 PM,Los Angeles Clippers,101,Chicago Bulls,91
+Sat Mar 4 2017,9:00 PM,Charlotte Hornets,112,Denver Nuggets,102
+Sat Mar 4 2017,9:00 PM,Memphis Grizzlies,108,Houston Rockets,123
+Sat Mar 4 2017,8:00 PM,Cleveland Cavaliers,92,Miami Heat,120
+Sat Mar 4 2017,8:00 PM,Toronto Raptors,94,Milwaukee Bucks,101
+Sat Mar 4 2017,6:00 PM,Detroit Pistons,136,Philadelphia 76ers,106
+Sat Mar 4 2017,10:00 PM,Brooklyn Nets,116,Portland Trail Blazers,130
+Sat Mar 4 2017,9:00 PM,Minnesota Timberwolves,90,San Antonio Spurs,97
+Sun Mar 5 2017,1:00 PM,Indiana Pacers,97,Atlanta Hawks,96
+Sun Mar 5 2017,8:30 PM,Oklahoma City Thunder,89,Dallas Mavericks,104
+Sun Mar 5 2017,9:30 PM,New Orleans Pelicans,105,Los Angeles Lakers,97
+Sun Mar 5 2017,3:30 PM,Golden State Warriors,112,New York Knicks,105
+Sun Mar 5 2017,5:00 PM,Boston Celtics,106,Phoenix Suns,109
+Sun Mar 5 2017,6:00 PM,Utah Jazz,110,Sacramento Kings,109
+Sun Mar 5 2017,5:00 PM,Orlando Magic,114,Washington Wizards,115
+Mon Mar 6 2017,7:30 PM,Golden State Warriors,119,Atlanta Hawks,111
+Mon Mar 6 2017,8:00 PM,Indiana Pacers,88,Charlotte Hornets,100
+Mon Mar 6 2017,7:00 PM,Miami Heat,106,Cleveland Cavaliers,98
+Mon Mar 6 2017,9:00 PM,Sacramento Kings,96,Denver Nuggets,108
+Mon Mar 6 2017,7:30 PM,Chicago Bulls,95,Detroit Pistons,109
+Mon Mar 6 2017,10:30 PM,Boston Celtics,102,Los Angeles Clippers,116
+Mon Mar 6 2017,8:00 PM,Brooklyn Nets,122,Memphis Grizzlies,109
+Mon Mar 6 2017,7:00 PM,New York Knicks,113,Orlando Magic,105
+Mon Mar 6 2017,7:00 PM,Milwaukee Bucks,112,Philadelphia 76ers,98
+Mon Mar 6 2017,8:30 PM,Houston Rockets,110,San Antonio Spurs,112
+Mon Mar 6 2017,9:00 PM,New Orleans Pelicans,83,Utah Jazz,88
+Tue Mar 7 2017,8:30 PM,Los Angeles Lakers,111,Dallas Mavericks,122
+Tue Mar 7 2017,8:00 PM,Portland Trail Blazers,126,Oklahoma City Thunder,121
+Tue Mar 7 2017,9:00 PM,Washington Wizards,131,Phoenix Suns,127
+Wed Mar 8 2017,7:30 PM,Brooklyn Nets,105,Atlanta Hawks,110
+Wed Mar 8 2017,9:00 PM,Washington Wizards,123,Denver Nuggets,113
+Wed Mar 8 2017,10:30 PM,Boston Celtics,99,Golden State Warriors,86
+Wed Mar 8 2017,8:00 PM,Utah Jazz,115,Houston Rockets,108
+Wed Mar 8 2017,8:00 PM,Detroit Pistons,98,Indiana Pacers,115
+Wed Mar 8 2017,7:30 PM,Charlotte Hornets,101,Miami Heat,108
+Wed Mar 8 2017,8:00 PM,New York Knicks,93,Milwaukee Bucks,104
+Wed Mar 8 2017,8:00 PM,Los Angeles Clippers,91,Minnesota Timberwolves,107
+Wed Mar 8 2017,8:00 PM,Toronto Raptors,94,New Orleans Pelicans,87
+Wed Mar 8 2017,7:00 PM,Chicago Bulls,91,Orlando Magic,98
+Wed Mar 8 2017,8:30 PM,Sacramento Kings,104,San Antonio Spurs,114
+Thu Mar 9 2017,7:30 PM,Cleveland Cavaliers,101,Detroit Pistons,106
+Thu Mar 9 2017,8:00 PM,Los Angeles Clippers,114,Memphis Grizzlies,98
+Thu Mar 9 2017,8:00 PM,San Antonio Spurs,92,Oklahoma City Thunder,102
+Thu Mar 9 2017,10:30 PM,Los Angeles Lakers,122,Phoenix Suns,110
+Thu Mar 9 2017,10:00 PM,Philadelphia 76ers,108,Portland Trail Blazers,114
+Fri Mar 10 2017,8:00 PM,Toronto Raptors,99,Atlanta Hawks,105
+Fri Mar 10 2017,8:00 PM,Houston Rockets,115,Chicago Bulls,94
+Fri Mar 10 2017,7:00 PM,Orlando Magic,81,Charlotte Hornets,121
+Fri Mar 10 2017,9:00 PM,Brooklyn Nets,96,Dallas Mavericks,105
+Fri Mar 10 2017,9:00 PM,Boston Celtics,99,Denver Nuggets,119
+Fri Mar 10 2017,8:00 PM,Indiana Pacers,85,Milwaukee Bucks,99
+Fri Mar 10 2017,8:00 PM,Golden State Warriors,102,Minnesota Timberwolves,103
+Fri Mar 10 2017,10:30 PM,Washington Wizards,130,Sacramento Kings,122
+Sat Mar 11 2017,7:00 PM,New Orleans Pelicans,125,Charlotte Hornets,122
+Sat Mar 11 2017,9:00 PM,Phoenix Suns,100,Dallas Mavericks,98
+Sat Mar 11 2017,5:00 PM,New York Knicks,92,Detroit Pistons,112
+Sat Mar 11 2017,3:30 PM,Philadelphia 76ers,100,Los Angeles Clippers,112
+Sat Mar 11 2017,9:00 PM,Atlanta Hawks,107,Memphis Grizzlies,90
+Sat Mar 11 2017,8:00 PM,Toronto Raptors,89,Miami Heat,104
+Sat Mar 11 2017,8:00 PM,Minnesota Timberwolves,95,Milwaukee Bucks,102
+Sat Mar 11 2017,3:00 PM,Utah Jazz,104,Oklahoma City Thunder,112
+Sat Mar 11 2017,7:00 PM,Cleveland Cavaliers,116,Orlando Magic,104
+Sat Mar 11 2017,10:00 PM,Washington Wizards,125,Portland Trail Blazers,124
+Sat Mar 11 2017,10:30 PM,Denver Nuggets,105,Sacramento Kings,92
+Sat Mar 11 2017,8:30 PM,Golden State Warriors,85,San Antonio Spurs,107
+Sun Mar 12 2017,3:30 PM,Chicago Bulls,80,Boston Celtics,100
+Sun Mar 12 2017,6:00 PM,New York Knicks,112,Brooklyn Nets,120
+Sun Mar 12 2017,9:00 PM,Cleveland Cavaliers,112,Houston Rockets,117
+Sun Mar 12 2017,6:00 PM,Miami Heat,98,Indiana Pacers,102
+Sun Mar 12 2017,9:30 PM,Philadelphia 76ers,118,Los Angeles Lakers,116
+Sun Mar 12 2017,9:00 PM,Portland Trail Blazers,110,Phoenix Suns,101
+Mon Mar 13 2017,7:00 PM,Chicago Bulls,115,Charlotte Hornets,109
+Mon Mar 13 2017,10:30 PM,Los Angeles Lakers,101,Denver Nuggets,129
+Mon Mar 13 2017,8:00 PM,Milwaukee Bucks,93,Memphis Grizzlies,113
+Mon Mar 13 2017,8:00 PM,Washington Wizards,104,Minnesota Timberwolves,119
+Mon Mar 13 2017,10:30 PM,Orlando Magic,115,Sacramento Kings,120
+Mon Mar 13 2017,8:00 PM,Atlanta Hawks,99,San Antonio Spurs,107
+Mon Mar 13 2017,7:30 PM,Dallas Mavericks,78,Toronto Raptors,100
+Mon Mar 13 2017,9:00 PM,Los Angeles Clippers,108,Utah Jazz,114
+Tue Mar 14 2017,7:30 PM,Oklahoma City Thunder,122,Brooklyn Nets,104
+Tue Mar 14 2017,7:00 PM,Detroit Pistons,96,Cleveland Cavaliers,128
+Tue Mar 14 2017,10:30 PM,Philadelphia 76ers,104,Golden State Warriors,106
+Tue Mar 14 2017,8:00 PM,Portland Trail Blazers,77,New Orleans Pelicans,100
+Tue Mar 14 2017,7:30 PM,Indiana Pacers,81,New York Knicks,87
+Wed Mar 15 2017,7:30 PM,Minnesota Timberwolves,104,Boston Celtics,117
+Wed Mar 15 2017,8:00 PM,Memphis Grizzlies,98,Chicago Bulls,91
+Wed Mar 15 2017,7:30 PM,Utah Jazz,97,Detroit Pistons,83
+Wed Mar 15 2017,8:00 PM,Los Angeles Lakers,100,Houston Rockets,139
+Wed Mar 15 2017,7:00 PM,Charlotte Hornets,77,Indiana Pacers,98
+Wed Mar 15 2017,10:30 PM,Milwaukee Bucks,97,Los Angeles Clippers,96
+Wed Mar 15 2017,7:30 PM,New Orleans Pelicans,112,Miami Heat,120
+Wed Mar 15 2017,10:00 PM,Sacramento Kings,107,Phoenix Suns,101
+Wed Mar 15 2017,8:00 PM,Portland Trail Blazers,110,San Antonio Spurs,106
+Wed Mar 15 2017,7:00 PM,Dallas Mavericks,112,Washington Wizards,107
+Thu Mar 16 2017,7:30 PM,Memphis Grizzlies,103,Atlanta Hawks,91
+Thu Mar 16 2017,7:00 PM,Utah Jazz,83,Cleveland Cavaliers,91
+Thu Mar 16 2017,9:00 PM,Los Angeles Clippers,114,Denver Nuggets,129
+Thu Mar 16 2017,10:30 PM,Orlando Magic,92,Golden State Warriors,122
+Thu Mar 16 2017,7:30 PM,Brooklyn Nets,121,New York Knicks,110
+Thu Mar 16 2017,7:00 PM,Oklahoma City Thunder,123,Toronto Raptors,102
+Fri Mar 17 2017,7:30 PM,Boston Celtics,98,Brooklyn Nets,95
+Fri Mar 17 2017,7:30 PM,Toronto Raptors,87,Detroit Pistons,75
+Fri Mar 17 2017,10:30 PM,Milwaukee Bucks,107,Los Angeles Lakers,103
+Fri Mar 17 2017,8:00 PM,Minnesota Timberwolves,105,Miami Heat,123
+Fri Mar 17 2017,8:00 PM,Houston Rockets,112,New Orleans Pelicans,128
+Fri Mar 17 2017,7:00 PM,Dallas Mavericks,74,Philadelphia 76ers,116
+Fri Mar 17 2017,10:00 PM,Orlando Magic,109,Phoenix Suns,103
+Fri Mar 17 2017,7:00 PM,Chicago Bulls,107,Washington Wizards,112
+Sat Mar 18 2017,6:00 PM,Portland Trail Blazers,113,Atlanta Hawks,97
+Sat Mar 18 2017,9:00 PM,Utah Jazz,86,Chicago Bulls,95
+Sat Mar 18 2017,7:00 PM,Washington Wizards,93,Charlotte Hornets,98
+Sat Mar 18 2017,9:30 PM,Houston Rockets,109,Denver Nuggets,105
+Sat Mar 18 2017,10:30 PM,Milwaukee Bucks,92,Golden State Warriors,117
+Sat Mar 18 2017,8:30 PM,Cleveland Cavaliers,78,Los Angeles Clippers,108
+Sat Mar 18 2017,9:00 PM,San Antonio Spurs,96,Memphis Grizzlies,104
+Sat Mar 18 2017,3:00 PM,Sacramento Kings,94,Oklahoma City Thunder,110
+Sun Mar 19 2017,12:00 PM,Dallas Mavericks,111,Brooklyn Nets,104
+Sun Mar 19 2017,4:30 PM,Phoenix Suns,95,Detroit Pistons,112
+Sun Mar 19 2017,9:30 PM,Cleveland Cavaliers,125,Los Angeles Lakers,120
+Sun Mar 19 2017,6:00 PM,Portland Trail Blazers,115,Miami Heat,104
+Sun Mar 19 2017,6:00 PM,Minnesota Timberwolves,109,New Orleans Pelicans,123
+Sun Mar 19 2017,1:00 PM,Boston Celtics,99,Philadelphia 76ers,105
+Sun Mar 19 2017,7:00 PM,Sacramento Kings,102,San Antonio Spurs,118
+Sun Mar 19 2017,6:00 PM,Indiana Pacers,91,Toronto Raptors,116
+Mon Mar 20 2017,7:30 PM,Washington Wizards,102,Boston Celtics,110
+Mon Mar 20 2017,7:00 PM,Atlanta Hawks,90,Charlotte Hornets,105
+Mon Mar 20 2017,8:00 PM,Denver Nuggets,124,Houston Rockets,125
+Mon Mar 20 2017,7:00 PM,Utah Jazz,100,Indiana Pacers,107
+Mon Mar 20 2017,10:30 PM,New York Knicks,105,Los Angeles Clippers,114
+Mon Mar 20 2017,8:00 PM,Golden State Warriors,111,Oklahoma City Thunder,95
+Mon Mar 20 2017,7:00 PM,Philadelphia 76ers,109,Orlando Magic,112
+Tue Mar 21 2017,7:30 PM,Detroit Pistons,96,Brooklyn Nets,98
+Tue Mar 21 2017,8:30 PM,Golden State Warriors,112,Dallas Mavericks,87
+Tue Mar 21 2017,10:30 PM,Los Angeles Clippers,133,Los Angeles Lakers,109
+Tue Mar 21 2017,7:30 PM,Phoenix Suns,97,Miami Heat,112
+Tue Mar 21 2017,9:30 PM,San Antonio Spurs,100,Minnesota Timberwolves,93
+Tue Mar 21 2017,8:00 PM,Memphis Grizzlies,82,New Orleans Pelicans,95
+Tue Mar 21 2017,10:00 PM,Milwaukee Bucks,93,Portland Trail Blazers,90
+Tue Mar 21 2017,7:00 PM,Chicago Bulls,120,Toronto Raptors,122
+Wed Mar 22 2017,7:30 PM,Indiana Pacers,100,Boston Celtics,109
+Wed Mar 22 2017,8:00 PM,Detroit Pistons,95,Chicago Bulls,117
+Wed Mar 22 2017,9:00 PM,Cleveland Cavaliers,113,Denver Nuggets,126
+Wed Mar 22 2017,8:00 PM,Philadelphia 76ers,97,Oklahoma City Thunder,122
+Wed Mar 22 2017,7:00 PM,Charlotte Hornets,109,Orlando Magic,102
+Wed Mar 22 2017,10:30 PM,Milwaukee Bucks,116,Sacramento Kings,98
+Wed Mar 22 2017,10:30 PM,New York Knicks,101,Utah Jazz,108
+Wed Mar 22 2017,8:00 PM,Atlanta Hawks,100,Washington Wizards,104
+Thu Mar 23 2017,7:30 PM,Phoenix Suns,98,Brooklyn Nets,126
+Thu Mar 23 2017,8:30 PM,Los Angeles Clippers,95,Dallas Mavericks,97
+Thu Mar 23 2017,7:30 PM,Toronto Raptors,101,Miami Heat,84
+Thu Mar 23 2017,10:00 PM,New York Knicks,95,Portland Trail Blazers,110
+Thu Mar 23 2017,8:30 PM,Memphis Grizzlies,90,San Antonio Spurs,97
+Fri Mar 24 2017,7:30 PM,Phoenix Suns,120,Boston Celtics,130
+Fri Mar 24 2017,8:00 PM,Philadelphia 76ers,117,Chicago Bulls,107
+Fri Mar 24 2017,7:00 PM,Cleveland Cavaliers,112,Charlotte Hornets,105
+Fri Mar 24 2017,10:30 PM,Sacramento Kings,100,Golden State Warriors,114
+Fri Mar 24 2017,8:00 PM,New Orleans Pelicans,107,Houston Rockets,117
+Fri Mar 24 2017,7:00 PM,Denver Nuggets,125,Indiana Pacers,117
+Fri Mar 24 2017,10:30 PM,Minnesota Timberwolves,119,Los Angeles Lakers,130
+Fri Mar 24 2017,8:00 PM,Atlanta Hawks,97,Milwaukee Bucks,100
+Fri Mar 24 2017,7:00 PM,Detroit Pistons,87,Orlando Magic,115
+Fri Mar 24 2017,7:00 PM,Brooklyn Nets,108,Washington Wizards,129
+Sat Mar 25 2017,7:30 PM,Washington Wizards,127,Cleveland Cavaliers,115
+Sat Mar 25 2017,8:30 PM,Toronto Raptors,94,Dallas Mavericks,86
+Sat Mar 25 2017,3:30 PM,Utah Jazz,95,Los Angeles Clippers,108
+Sat Mar 25 2017,10:00 PM,Minnesota Timberwolves,100,Portland Trail Blazers,112
+Sat Mar 25 2017,8:30 PM,New York Knicks,98,San Antonio Spurs,106
+Sun Mar 26 2017,1:00 PM,Brooklyn Nets,107,Atlanta Hawks,92
+Sun Mar 26 2017,6:00 PM,Miami Heat,108,Boston Celtics,112
+Sun Mar 26 2017,1:00 PM,Phoenix Suns,106,Charlotte Hornets,120
+Sun Mar 26 2017,8:00 PM,New Orleans Pelicans,115,Denver Nuggets,90
+Sun Mar 26 2017,8:00 PM,Memphis Grizzlies,94,Golden State Warriors,106
+Sun Mar 26 2017,3:30 PM,Oklahoma City Thunder,125,Houston Rockets,137
+Sun Mar 26 2017,6:00 PM,Philadelphia 76ers,94,Indiana Pacers,107
+Sun Mar 26 2017,3:30 PM,Sacramento Kings,98,Los Angeles Clippers,97
+Sun Mar 26 2017,9:30 PM,Portland Trail Blazers,97,Los Angeles Lakers,81
+Sun Mar 26 2017,3:30 PM,Chicago Bulls,109,Milwaukee Bucks,94
+Mon Mar 27 2017,8:30 PM,Oklahoma City Thunder,92,Dallas Mavericks,91
+Mon Mar 27 2017,7:30 PM,Detroit Pistons,95,New York Knicks,109
+Mon Mar 27 2017,10:30 PM,Memphis Grizzlies,90,Sacramento Kings,91
+Mon Mar 27 2017,8:00 PM,Cleveland Cavaliers,74,San Antonio Spurs,103
+Mon Mar 27 2017,7:30 PM,Orlando Magic,112,Toronto Raptors,131
+Mon Mar 27 2017,10:30 PM,New Orleans Pelicans,100,Utah Jazz,108
+Tue Mar 28 2017,7:30 PM,Phoenix Suns,91,Atlanta Hawks,95
+Tue Mar 28 2017,7:30 PM,Philadelphia 76ers,106,Brooklyn Nets,101
+Tue Mar 28 2017,7:00 PM,Milwaukee Bucks,118,Charlotte Hornets,108
+Tue Mar 28 2017,7:30 PM,Miami Heat,97,Detroit Pistons,96
+Tue Mar 28 2017,8:00 PM,Golden State Warriors,113,Houston Rockets,106
+Tue Mar 28 2017,7:00 PM,Minnesota Timberwolves,115,Indiana Pacers,114
+Tue Mar 28 2017,10:30 PM,Washington Wizards,119,Los Angeles Lakers,108
+Tue Mar 28 2017,10:00 PM,Denver Nuggets,113,Portland Trail Blazers,122
+Wed Mar 29 2017,7:30 PM,Milwaukee Bucks,103,Boston Celtics,100
+Wed Mar 29 2017,10:30 PM,Washington Wizards,124,Los Angeles Clippers,133
+Wed Mar 29 2017,8:00 PM,Indiana Pacers,97,Memphis Grizzlies,110
+Wed Mar 29 2017,8:00 PM,Dallas Mavericks,118,New Orleans Pelicans,121
+Wed Mar 29 2017,7:30 PM,Miami Heat,105,New York Knicks,88
+Wed Mar 29 2017,7:00 PM,Oklahoma City Thunder,114,Orlando Magic,106
+Wed Mar 29 2017,7:00 PM,Atlanta Hawks,99,Philadelphia 76ers,92
+Wed Mar 29 2017,10:30 PM,Utah Jazz,112,Sacramento Kings,82
+Wed Mar 29 2017,9:30 PM,Golden State Warriors,110,San Antonio Spurs,98
+Wed Mar 29 2017,7:30 PM,Charlotte Hornets,110,Toronto Raptors,106
+Thu Mar 30 2017,8:00 PM,Cleveland Cavaliers,93,Chicago Bulls,99
+Thu Mar 30 2017,7:30 PM,Brooklyn Nets,89,Detroit Pistons,90
+Thu Mar 30 2017,8:00 PM,Los Angeles Lakers,104,Minnesota Timberwolves,119
+Thu Mar 30 2017,10:00 PM,Los Angeles Clippers,124,Phoenix Suns,118
+Thu Mar 30 2017,10:30 PM,Houston Rockets,107,Portland Trail Blazers,117
+Fri Mar 31 2017,7:30 PM,Orlando Magic,116,Boston Celtics,117
+Fri Mar 31 2017,7:00 PM,Denver Nuggets,114,Charlotte Hornets,122
+Fri Mar 31 2017,7:30 PM,Philadelphia 76ers,105,Cleveland Cavaliers,122
+Fri Mar 31 2017,10:30 PM,Houston Rockets,98,Golden State Warriors,107
+Fri Mar 31 2017,8:00 PM,Dallas Mavericks,90,Memphis Grizzlies,99
+Fri Mar 31 2017,8:00 PM,New York Knicks,98,Miami Heat,94
+Fri Mar 31 2017,8:00 PM,Detroit Pistons,105,Milwaukee Bucks,108
+Fri Mar 31 2017,8:00 PM,Sacramento Kings,89,New Orleans Pelicans,117
+Fri Mar 31 2017,8:00 PM,San Antonio Spurs,100,Oklahoma City Thunder,95
+Fri Mar 31 2017,7:00 PM,Indiana Pacers,100,Toronto Raptors,111
+Fri Mar 31 2017,9:00 PM,Washington Wizards,88,Utah Jazz,95
+Sat Apr 1 2017,6:00 PM,Orlando Magic,111,Brooklyn Nets,121
+Sat Apr 1 2017,5:00 PM,Atlanta Hawks,104,Chicago Bulls,106
+Sat Apr 1 2017,3:30 PM,Los Angeles Lakers,104,Los Angeles Clippers,115
+Sat Apr 1 2017,8:00 PM,Sacramento Kings,123,Minnesota Timberwolves,117
+Sat Apr 1 2017,10:00 PM,Phoenix Suns,117,Portland Trail Blazers,130
+Sun Apr 2 2017,6:00 PM,Atlanta Hawks,82,Brooklyn Nets,91
+Sun Apr 2 2017,6:00 PM,Indiana Pacers,130,Cleveland Cavaliers,135
+Sun Apr 2 2017,8:00 PM,Washington Wizards,115,Golden State Warriors,139
+Sun Apr 2 2017,3:30 PM,Memphis Grizzlies,103,Los Angeles Lakers,108
+Sun Apr 2 2017,6:00 PM,Denver Nuggets,116,Miami Heat,113
+Sun Apr 2 2017,3:30 PM,Dallas Mavericks,109,Milwaukee Bucks,105
+Sun Apr 2 2017,6:00 PM,Chicago Bulls,117,New Orleans Pelicans,110
+Sun Apr 2 2017,1:00 PM,Boston Celtics,110,New York Knicks,94
+Sun Apr 2 2017,3:00 PM,Charlotte Hornets,113,Oklahoma City Thunder,101
+Sun Apr 2 2017,9:00 PM,Houston Rockets,123,Phoenix Suns,116
+Sun Apr 2 2017,3:30 PM,Utah Jazz,103,San Antonio Spurs,109
+Sun Apr 2 2017,6:00 PM,Philadelphia 76ers,105,Toronto Raptors,113
+Mon Apr 3 2017,7:00 PM,Portland Trail Blazers,109,Minnesota Timberwolves,110
+Tue Apr 4 2017,7:00 PM,Orlando Magic,102,Cleveland Cavaliers,122
+Tue Apr 4 2017,10:30 PM,Minnesota Timberwolves,107,Golden State Warriors,121
+Tue Apr 4 2017,7:00 PM,Toronto Raptors,90,Indiana Pacers,108
+Tue Apr 4 2017,8:00 PM,Denver Nuggets,134,New Orleans Pelicans,131
+Tue Apr 4 2017,8:00 PM,Chicago Bulls,91,New York Knicks,100
+Tue Apr 4 2017,8:00 PM,Milwaukee Bucks,79,Oklahoma City Thunder,110
+Tue Apr 4 2017,7:00 PM,Brooklyn Nets,141,Philadelphia 76ers,118
+Tue Apr 4 2017,10:30 PM,Dallas Mavericks,87,Sacramento Kings,98
+Tue Apr 4 2017,8:30 PM,Memphis Grizzlies,89,San Antonio Spurs,95
+Tue Apr 4 2017,9:00 PM,Portland Trail Blazers,87,Utah Jazz,106
+Tue Apr 4 2017,7:00 PM,Charlotte Hornets,111,Washington Wizards,118
+Wed Apr 5 2017,8:00 PM,Cleveland Cavaliers,114,Boston Celtics,91
+Wed Apr 5 2017,7:00 PM,Miami Heat,112,Charlotte Hornets,99
+Wed Apr 5 2017,7:30 PM,Toronto Raptors,105,Detroit Pistons,102
+Wed Apr 5 2017,8:00 PM,Denver Nuggets,104,Houston Rockets,110
+Wed Apr 5 2017,10:30 PM,Dallas Mavericks,101,Los Angeles Clippers,112
+Wed Apr 5 2017,8:00 PM,Oklahoma City Thunder,103,Memphis Grizzlies,100
+Wed Apr 5 2017,10:00 PM,Golden State Warriors,120,Phoenix Suns,111
+Wed Apr 5 2017,8:30 PM,Los Angeles Lakers,102,San Antonio Spurs,95
+Thu Apr 6 2017,8:00 PM,Boston Celtics,116,Atlanta Hawks,123
+Thu Apr 6 2017,7:00 PM,Milwaukee Bucks,89,Indiana Pacers,104
+Thu Apr 6 2017,7:30 PM,Washington Wizards,106,New York Knicks,103
+Thu Apr 6 2017,7:00 PM,Brooklyn Nets,107,Orlando Magic,115
+Thu Apr 6 2017,7:00 PM,Chicago Bulls,102,Philadelphia 76ers,90
+Thu Apr 6 2017,10:30 PM,Minnesota Timberwolves,98,Portland Trail Blazers,105
+Fri Apr 7 2017,7:30 PM,Atlanta Hawks,,Cleveland Cavaliers,
+Fri Apr 7 2017,8:30 PM,San Antonio Spurs,,Dallas Mavericks,
+Fri Apr 7 2017,9:00 PM,New Orleans Pelicans,,Denver Nuggets,
+Fri Apr 7 2017,8:00 PM,Detroit Pistons,,Houston Rockets,
+Fri Apr 7 2017,10:30 PM,Sacramento Kings,,Los Angeles Lakers,
+Fri Apr 7 2017,8:00 PM,New York Knicks,,Memphis Grizzlies,
+Fri Apr 7 2017,10:00 PM,Oklahoma City Thunder,,Phoenix Suns,
+Fri Apr 7 2017,7:30 PM,Miami Heat,,Toronto Raptors,
+Fri Apr 7 2017,9:00 PM,Minnesota Timberwolves,,Utah Jazz,
+Sat Apr 8 2017,5:00 PM,Chicago Bulls,,Brooklyn Nets,
+Sat Apr 8 2017,6:00 PM,Boston Celtics,,Charlotte Hornets,
+Sat Apr 8 2017,10:30 PM,New Orleans Pelicans,,Golden State Warriors,
+Sat Apr 8 2017,6:00 PM,Indiana Pacers,,Orlando Magic,
+Sat Apr 8 2017,7:00 PM,Milwaukee Bucks,,Philadelphia 76ers,
+Sat Apr 8 2017,10:00 PM,Utah Jazz,,Portland Trail Blazers,
+Sat Apr 8 2017,8:30 PM,Los Angeles Clippers,,San Antonio Spurs,
+Sat Apr 8 2017,7:00 PM,Miami Heat,,Washington Wizards,
+Sun Apr 9 2017,3:30 PM,Cleveland Cavaliers,,Atlanta Hawks,
+Sun Apr 9 2017,5:00 PM,Oklahoma City Thunder,,Denver Nuggets,
+Sun Apr 9 2017,9:30 PM,Minnesota Timberwolves,,Los Angeles Lakers,
+Sun Apr 9 2017,6:00 PM,Detroit Pistons,,Memphis Grizzlies,
+Sun Apr 9 2017,12:00 PM,Toronto Raptors,,New York Knicks,
+Sun Apr 9 2017,6:00 PM,Dallas Mavericks,,Phoenix Suns,
+Sun Apr 9 2017,6:00 PM,Houston Rockets,,Sacramento Kings,
+Mon Apr 10 2017,7:30 PM,Brooklyn Nets,,Boston Celtics,
+Mon Apr 10 2017,8:00 PM,Orlando Magic,,Chicago Bulls,
+Mon Apr 10 2017,8:00 PM,Washington Wizards,,Detroit Pistons,
+Mon Apr 10 2017,10:30 PM,Utah Jazz,,Golden State Warriors,
+Mon Apr 10 2017,10:30 PM,Houston Rockets,,Los Angeles Clippers,
+Mon Apr 10 2017,7:30 PM,Cleveland Cavaliers,,Miami Heat,
+Mon Apr 10 2017,8:00 PM,Charlotte Hornets,,Milwaukee Bucks,
+Mon Apr 10 2017,7:00 PM,Indiana Pacers,,Philadelphia 76ers,
+Mon Apr 10 2017,10:00 PM,San Antonio Spurs,,Portland Trail Blazers,
+Tue Apr 11 2017,7:30 PM,Charlotte Hornets,,Atlanta Hawks,
+Tue Apr 11 2017,8:30 PM,Denver Nuggets,,Dallas Mavericks,
+Tue Apr 11 2017,10:30 PM,New Orleans Pelicans,,Los Angeles Lakers,
+Tue Apr 11 2017,8:00 PM,Oklahoma City Thunder,,Minnesota Timberwolves,
+Tue Apr 11 2017,10:30 PM,Phoenix Suns,,Sacramento Kings,
+Wed Apr 12 2017,8:00 PM,Milwaukee Bucks,,Boston Celtics,
+Wed Apr 12 2017,8:00 PM,Brooklyn Nets,,Chicago Bulls,
+Wed Apr 12 2017,8:00 PM,Toronto Raptors,,Cleveland Cavaliers,
+Wed Apr 12 2017,10:30 PM,Los Angeles Lakers,,Golden State Warriors,
+Wed Apr 12 2017,8:00 PM,Minnesota Timberwolves,,Houston Rockets,
+Wed Apr 12 2017,8:00 PM,Atlanta Hawks,,Indiana Pacers,
+Wed Apr 12 2017,10:30 PM,Sacramento Kings,,Los Angeles Clippers,
+Wed Apr 12 2017,8:00 PM,Dallas Mavericks,,Memphis Grizzlies,
+Wed Apr 12 2017,8:00 PM,Washington Wizards,,Miami Heat,
+Wed Apr 12 2017,8:00 PM,Philadelphia 76ers,,New York Knicks,
+Wed Apr 12 2017,8:00 PM,Denver Nuggets,,Oklahoma City Thunder,
+Wed Apr 12 2017,8:00 PM,Detroit Pistons,,Orlando Magic,
+Wed Apr 12 2017,10:30 PM,New Orleans Pelicans,,Portland Trail Blazers,
+Wed Apr 12 2017,10:30 PM,San Antonio Spurs,,Utah Jazz,

@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 from datetime import datetime
 
-folder = 'data'
+folder = 'temp'
 
 if __name__ == '__main__':
     schedule = pd.read_csv(folder + '/16-17Schedule_Result.csv')
